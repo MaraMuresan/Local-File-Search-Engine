@@ -1,0 +1,19 @@
+Indexing Report:
+
+Indexed Files (9):
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\apple.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\appleNew.c
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\ex1.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\ex2.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\ex3.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\fruits\bug.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\fruits\ex3.c
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\fruits\ex4.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\fruits\ex5.hs
+
+Skipped Files (1):
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\fruits\apple.jpg
+
+Failed Files (0):
+
+Report generated on: Thu Mar 20 16:55:30 EET 2025
