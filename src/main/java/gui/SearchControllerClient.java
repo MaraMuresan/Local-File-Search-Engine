@@ -19,19 +19,23 @@ public class SearchControllerClient {
 
     public void sendSearchQuery(String query) {
         RequestHandler handler = new RequestHandler();
-        String validQuery = handler.validateQuery(query);
 
-        if (validQuery != null) {
-            Map<String, List<String[]>> resultMap = searchService.search(validQuery);
-            List<String[]> nameMatches = resultMap.get("name");
+        if (handler.isValidQuery(query)) {
+            Map<String, String> parsed = handler.parseQuery(query);
+            Map<String, List<String[]>> resultMap = searchService.advancedSearch(parsed);
+
+            List<String[]> pathMatches = resultMap.get("path");
             List<String[]> contentMatches = resultMap.get("content");
 
-            resultDisplay.updateResults(nameMatches, contentMatches, validQuery);
+            String highlightQuery = parsed.getOrDefault("content", "");
 
-            int total = nameMatches.size() + contentMatches.size();
+            resultDisplay.updateResults(pathMatches, contentMatches, highlightQuery);
+
+            int total = pathMatches.size() + contentMatches.size();
             statusBox.setStatus("Found " + total + " results.");
         } else {
             statusBox.setStatus("Invalid query.");
         }
     }
+
 }

@@ -26,15 +26,15 @@ public class ResultDisplay extends JPanel {
         add(scrollPane, BorderLayout.CENTER);
     }
 
-    public void updateResults(List<String[]> nameResults, List<String[]> contentResults, String query) {
+    public void updateResults(List<String[]> pathResults, List<String[]> contentResults, String highlightQuery) {
         resultPane.setText("");
         try {
-            doc.insertString(doc.getLength(), "SEARCHING BY FILE NAME:\n", doc.getStyle("header"));
-            if (nameResults.isEmpty()) {
-                doc.insertString(doc.getLength(), "  No file name matches found.\n\n", doc.getStyle("error"));
+            doc.insertString(doc.getLength(), "SEARCHING BY FILE PATH:\n", doc.getStyle("header"));
+            if (pathResults.isEmpty()) {
+                doc.insertString(doc.getLength(), "  No file path matches found.\n\n", doc.getStyle("error"));
             } else {
-                for (String[] file : nameResults) {
-                    addFileResult(file[0], file[1], query);
+                for (String[] file : pathResults) {
+                    addFileResult(file[0], file[1], highlightQuery);
                 }
                 doc.insertString(doc.getLength(), "\n", null);
             }
@@ -44,7 +44,7 @@ public class ResultDisplay extends JPanel {
                 doc.insertString(doc.getLength(), "  No content matches found.\n\n", doc.getStyle("error"));
             } else {
                 for (String[] file : contentResults) {
-                    addFileResult(file[0], file[1], query);
+                    addFileResult(file[0], file[1], highlightQuery);
                 }
             }
 
@@ -55,32 +55,50 @@ public class ResultDisplay extends JPanel {
 
     private void insertHighlightedPreview(String text, String query) throws BadLocationException {
         String lowerText = text.toLowerCase();
-        String lowerQuery = query.toLowerCase();
-        int index = 0;
+        int current = 0;
 
-        while (index < text.length()) {
-            int found = lowerText.indexOf(lowerQuery, index);
-            if (found == -1) {
-                doc.insertString(doc.getLength(), text.substring(index), doc.getStyle("dim"));
+        String[] keywords = query.toLowerCase().split("\\s*(?i)AND\\s*");
+
+        while (current < text.length()) {
+            int nextMatch = -1;
+            int matchLength = 0;
+            String matchedKeyword = null;
+
+            for (String keyword : keywords) {
+                if (keyword.isBlank()) continue;
+
+                int found = lowerText.indexOf(keyword, current);
+                if (found != -1 && (nextMatch == -1 || found < nextMatch)) {
+                    nextMatch = found;
+                    matchLength = keyword.length();
+                    matchedKeyword = keyword;
+                }
+            }
+
+            if (nextMatch == -1) {
+                doc.insertString(doc.getLength(), text.substring(current), doc.getStyle("dim"));
                 break;
             }
 
-            if (found > index) {
-                doc.insertString(doc.getLength(), text.substring(index, found), doc.getStyle("dim"));
+            if (nextMatch > current) {
+                doc.insertString(doc.getLength(), text.substring(current, nextMatch), doc.getStyle("dim"));
             }
 
-            doc.insertString(doc.getLength(), text.substring(found, found + query.length()), doc.getStyle("highlight"));
+            doc.insertString(doc.getLength(),
+                    text.substring(nextMatch, nextMatch + matchLength),
+                    doc.getStyle("highlight"));
 
-            index = found + query.length();
+            current = nextMatch + matchLength;
         }
     }
 
 
-    private void addFileResult(String fileName, String content, String query) throws BadLocationException {
-        doc.insertString(doc.getLength(), "  " + fileName + "\n", doc.getStyle("bold"));
+
+    private void addFileResult(String filePath, String content, String highlightQuery) throws BadLocationException {
+        doc.insertString(doc.getLength(), "  " + filePath + "\n", doc.getStyle("bold"));
         String preview = content.length() > 300 ? content.substring(0, 300) + "..." : content;
         doc.insertString(doc.getLength(), "    > ", doc.getStyle("dim"));
-        insertHighlightedPreview(preview, query);
+        insertHighlightedPreview(preview, highlightQuery);
         doc.insertString(doc.getLength(), "\n\n", doc.getStyle("dim"));
     }
 

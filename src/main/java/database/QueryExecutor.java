@@ -11,45 +11,70 @@ public class QueryExecutor {
     private static final String USER = "postgres";
     private static final String PASSWORD = "postgres";
 
-    public Map<String, List<String[]>> searchInDatabase(String query) {
+    public Map<String, List<String[]>> searchWithQualifiers(Map<String, String> qualifiers) {
         Map<String, List<String[]>> resultMap = new HashMap<>();
-        List<String[]> nameMatches = new ArrayList<>();
+        List<String[]> pathMatches = new ArrayList<>();
         List<String[]> contentMatches = new ArrayList<>();
 
-        String sql = """
-        SELECT file_name, content,
-               file_name ILIKE ? AS is_name_match,
-               index_content @@ plainto_tsquery(?) AS is_content_match
-        FROM file_index
-        WHERE file_name ILIKE ? OR index_content @@ plainto_tsquery(?)
-    """;
+        String pathQuery = qualifiers.getOrDefault("path", "").trim();
+        String contentQuery = qualifiers.getOrDefault("content", "").trim();
 
-        try (Connection conn = DriverManager.getConnection(URL, USER, PASSWORD);
-             PreparedStatement stmt = conn.prepareStatement(sql)) {
+        try (Connection conn = DriverManager.getConnection(URL, USER, PASSWORD)) {
 
-            stmt.setString(1, "%" + query + "%");
-            stmt.setString(2, query);
-            stmt.setString(3, "%" + query + "%");
-            stmt.setString(4, query);
+            if (!pathQuery.isEmpty()) {
+                String[] keywords = pathQuery.split("\\s*(?i)AND\\s*");
 
-            ResultSet rs = stmt.executeQuery();
-            while (rs.next()) {
-                String fileName = rs.getString("file_name");
-                String content = rs.getString("content");
-                boolean nameMatch = rs.getBoolean("is_name_match");
-                boolean contentMatch = rs.getBoolean("is_content_match");
+                String pathSql = "SELECT file_path, content FROM file_index WHERE " +
+                        String.join(" AND ", java.util.Collections.nCopies(keywords.length, "file_path ILIKE ?"));
 
-                if (nameMatch) nameMatches.add(new String[]{fileName, content});
-                else if (contentMatch) contentMatches.add(new String[]{fileName, content});
+
+                try (PreparedStatement stmt = conn.prepareStatement(pathSql)) {
+                    for (int i = 0; i < keywords.length; i++) {
+                        String param = "%" + keywords[i].trim() + "%";
+                        stmt.setString(i + 1, param);
+                    }
+
+                    ResultSet rs = stmt.executeQuery();
+                    while (rs.next()) {
+                        String filePath = rs.getString("file_path");
+                        String content = rs.getString("content");
+                        pathMatches.add(new String[]{filePath, content});
+                    }
+                }
+            }
+
+
+            if (!contentQuery.isEmpty()) {
+                String contentSql = """
+                SELECT file_path, content
+                FROM file_index
+                WHERE index_content @@ plainto_tsquery(?)
+            """;
+
+                try (PreparedStatement stmt = conn.prepareStatement(contentSql)) {
+                    stmt.setString(1, contentQuery);
+
+                    ResultSet rs = stmt.executeQuery();
+                    while (rs.next()) {
+                        String filePath = rs.getString("file_path");
+                        String content = rs.getString("content");
+
+                        if (pathMatches.stream().noneMatch(f -> f[0].equals(filePath))) {
+                            contentMatches.add(new String[]{filePath, content});
+                        }
+                    }
+                }
             }
 
         } catch (SQLException e) {
             e.printStackTrace();
         }
 
-        resultMap.put("name", nameMatches);
+        resultMap.put("path", pathMatches);
         resultMap.put("content", contentMatches);
         return resultMap;
     }
+
+
 
 }

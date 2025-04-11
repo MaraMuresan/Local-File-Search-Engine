@@ -24,6 +24,11 @@ public class FileIndexer {
 
     public void indexFolder(Path folderPath) {
         try (Connection conn = DriverManager.getConnection(DB_URL, DB_USER, DB_PASS)) {
+            try (Statement cleanupStmt = conn.createStatement()) {
+                cleanupStmt.executeUpdate("DELETE FROM file_index");
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
             Files.walk(folderPath)
                     .filter(Files::isRegularFile)
                     .forEach(file -> {
@@ -36,33 +41,38 @@ public class FileIndexer {
                             }
 
                             String content = Files.readString(file);
-                            String fileName = file.getFileName().toString();
-                            String extension = getFileExtension(fileName);
+                            String filePath = file.toString().replace("\\", "/");
+                            String extension = getFileExtension(filePath);
                             String tags = "";
                             Timestamp timestamp = new Timestamp(new Date().getTime());
                             long size = Files.size(file); //bytes
 
                             PreparedStatement stmt = conn.prepareStatement("""
-                            INSERT INTO file_index (file_name, content, extension, tags, timestamp, size)
-                            VALUES (?, ?, ?, ?, ?, ?)
-                            ON CONFLICT (file_name) DO UPDATE 
-                            SET content = EXCLUDED.content,
+                                INSERT INTO file_index (file_path, content, extension, tags, timestamp, size, index_file_name, index_content)
+                                VALUES (?, ?, ?, ?, ?, ?, to_tsvector('english', ?), to_tsvector('english', ?))
+                                ON CONFLICT (file_path) DO UPDATE 
+                                SET content = EXCLUDED.content,
                                 extension = EXCLUDED.extension,
                                 tags = EXCLUDED.tags,
                                 timestamp = EXCLUDED.timestamp,
-                                size = EXCLUDED.size
-                        """);
+                                size = EXCLUDED.size,
+                                index_file_name = EXCLUDED.index_file_name,
+                                index_content = EXCLUDED.index_content
+                            """);
 
-                            stmt.setString(1, fileName);
+                            stmt.setString(1, filePath);
                             stmt.setString(2, content);
                             stmt.setString(3, extension);
                             stmt.setString(4, tags);
                             stmt.setTimestamp(5, timestamp);
                             stmt.setLong(6, size);
+                            stmt.setString(7, filePath);
+                            stmt.setString(8, content);
+
                             stmt.executeUpdate();
 
                             indexedFiles.add(file.toString());
-                            System.out.println("Indexed: " + fileName);
+                            System.out.println("Indexed: " + filePath);
 
                         } catch (Exception e) {
                             failedFiles.add(file.toString() + " → " + e.getMessage());
@@ -75,9 +85,9 @@ public class FileIndexer {
         }
     }
 
-    private String getFileExtension(String fileName) {
-        int dot = fileName.lastIndexOf('.');
-        return (dot != -1) ? fileName.substring(dot + 1) : "";
+    private String getFileExtension(String filePath) {
+        int dot = filePath.lastIndexOf('.');
+        return (dot != -1) ? filePath.substring(dot + 1) : "";
     }
 
     private void generateReport() {
