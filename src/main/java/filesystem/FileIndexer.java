@@ -46,10 +46,11 @@ public class FileIndexer {
                             String tags = "";
                             Timestamp timestamp = new Timestamp(new Date().getTime());
                             long size = Files.size(file); //bytes
+                            float rankScore = computeRankScore(file);
 
                             PreparedStatement stmt = conn.prepareStatement("""
-                                INSERT INTO file_index (file_path, content, extension, tags, timestamp, size, index_file_name, index_content)
-                                VALUES (?, ?, ?, ?, ?, ?, to_tsvector('english', ?), to_tsvector('english', ?))
+                                INSERT INTO file_index (file_path, content, extension, tags, timestamp, size, index_file_name, index_content, rank_score)
+                                VALUES (?, ?, ?, ?, ?, ?, to_tsvector('english', ?), to_tsvector('english', ?), ?)
                                 ON CONFLICT (file_path) DO UPDATE 
                                 SET content = EXCLUDED.content,
                                 extension = EXCLUDED.extension,
@@ -57,8 +58,10 @@ public class FileIndexer {
                                 timestamp = EXCLUDED.timestamp,
                                 size = EXCLUDED.size,
                                 index_file_name = EXCLUDED.index_file_name,
-                                index_content = EXCLUDED.index_content
-                            """);
+                                index_content = EXCLUDED.index_content,
+                                rank_score = EXCLUDED.rank_score
+                        """);
+
 
                             stmt.setString(1, filePath);
                             stmt.setString(2, content);
@@ -68,6 +71,7 @@ public class FileIndexer {
                             stmt.setLong(6, size);
                             stmt.setString(7, filePath);
                             stmt.setString(8, content);
+                            stmt.setFloat(9, rankScore);
 
                             stmt.executeUpdate();
 
@@ -88,6 +92,22 @@ public class FileIndexer {
     private String getFileExtension(String filePath) {
         int dot = filePath.lastIndexOf('.');
         return (dot != -1) ? filePath.substring(dot + 1) : "";
+    }
+
+    private float computeRankScore(Path file) {
+        String path = file.toString().toLowerCase();
+        float score = 0;
+
+        score += 100.0 / (path.length() + 1);
+
+        if (path.contains("lab")) score += 10;
+        if (path.contains("software")) score += 5;
+        if (path.contains("image")) score += 3;
+
+        if (path.endsWith(".java")) score += 2;
+        if (path.endsWith(".txt")) score += 1;
+
+        return score;
     }
 
     private void generateReport() {

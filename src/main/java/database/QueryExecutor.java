@@ -25,7 +25,8 @@ public class QueryExecutor {
                 String[] keywords = pathQuery.split("\\s*(?i)AND\\s*");
 
                 String pathSql = "SELECT file_path, content FROM file_index WHERE " +
-                        String.join(" AND ", java.util.Collections.nCopies(keywords.length, "file_path ILIKE ?"));
+                        String.join(" AND ", java.util.Collections.nCopies(keywords.length, "file_path ILIKE ?")) +
+                        " ORDER BY rank_score DESC";
 
 
                 try (PreparedStatement stmt = conn.prepareStatement(pathSql)) {
@@ -38,6 +39,7 @@ public class QueryExecutor {
                     while (rs.next()) {
                         String filePath = rs.getString("file_path");
                         String content = rs.getString("content");
+
                         pathMatches.add(new String[]{filePath, content});
                     }
                 }
@@ -49,6 +51,7 @@ public class QueryExecutor {
                 SELECT file_path, content
                 FROM file_index
                 WHERE index_content @@ plainto_tsquery(?)
+                ORDER BY rank_score DESC
             """;
 
                 try (PreparedStatement stmt = conn.prepareStatement(contentSql)) {
