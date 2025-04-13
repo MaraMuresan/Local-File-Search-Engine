@@ -4,6 +4,7 @@ import database.QueryExecutor;
 import filesystem.IndexReader;
 import gui.*;
 import searchcontroller.SearchService;
+import observer.SearchHistoryLogger;
 
 import javax.swing.*;
 
@@ -16,8 +17,11 @@ public class Main {
 
             ResultDisplay display = new ResultDisplay();
             StatusBox status = new StatusBox();
-            SearchControllerClient client = new SearchControllerClient(service, display, status);
+            SearchHistoryLogger historyLogger = new SearchHistoryLogger();
+            SearchControllerClient client = new SearchControllerClient(service, display, status, historyLogger);
             SearchInput input = new SearchInput(client);
+
+            status.setHistory(historyLogger.getLastSearches(3));
 
             JFrame frame = new JFrame("Local File Search Engine");
             frame.setSize(900, 600);

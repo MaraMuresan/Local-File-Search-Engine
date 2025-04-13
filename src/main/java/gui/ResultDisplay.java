@@ -34,7 +34,7 @@ public class ResultDisplay extends JPanel {
                 doc.insertString(doc.getLength(), "  No file path matches found.\n\n", doc.getStyle("error"));
             } else {
                 for (String[] file : pathResults) {
-                    addFileResult(file[0], file[1], highlightQuery);
+                    addFileResult(file[0], file[1], highlightQuery, file[2]);
                 }
                 doc.insertString(doc.getLength(), "\n", null);
             }
@@ -44,7 +44,7 @@ public class ResultDisplay extends JPanel {
                 doc.insertString(doc.getLength(), "  No content matches found.\n\n", doc.getStyle("error"));
             } else {
                 for (String[] file : contentResults) {
-                    addFileResult(file[0], file[1], highlightQuery);
+                    addFileResult(file[0], file[1], highlightQuery, file[2]);
                 }
             }
 
@@ -94,8 +94,9 @@ public class ResultDisplay extends JPanel {
 
 
 
-    private void addFileResult(String filePath, String content, String highlightQuery) throws BadLocationException {
-        doc.insertString(doc.getLength(), "  " + filePath + "\n", doc.getStyle("bold"));
+    private void addFileResult(String filePath, String content, String highlightQuery, String score) throws BadLocationException {
+        doc.insertString(doc.getLength(), "  " + filePath + " ", doc.getStyle("bold"));
+        doc.insertString(doc.getLength(), "[score: " + score + "]\n", doc.getStyle("score"));
         String preview = content.length() > 300 ? content.substring(0, 300) + "..." : content;
         doc.insertString(doc.getLength(), "    > ", doc.getStyle("dim"));
         insertHighlightedPreview(preview, highlightQuery);
@@ -123,5 +124,10 @@ public class ResultDisplay extends JPanel {
         Style error = doc.addStyle("error", null);
         StyleConstants.setForeground(error, Color.RED);
         StyleConstants.setBold(error, true);
+
+        Style score = doc.addStyle("score", null);
+        StyleConstants.setForeground(score, new Color(0, 153, 0));
+        StyleConstants.setBold(score, true);
+        StyleConstants.setFontSize(score, 12);
     }
 }

@@ -11,7 +11,7 @@ public class QueryExecutor {
     private static final String USER = "postgres";
     private static final String PASSWORD = "postgres";
 
-    public Map<String, List<String[]>> searchWithQualifiers(Map<String, String> qualifiers) {
+    public Map<String, List<String[]>> searchWithQualifiers(Map<String, String> qualifiers, Map<String, Integer> frequencyMap) {
         Map<String, List<String[]>> resultMap = new HashMap<>();
         List<String[]> pathMatches = new ArrayList<>();
         List<String[]> contentMatches = new ArrayList<>();
@@ -24,9 +24,8 @@ public class QueryExecutor {
             if (!pathQuery.isEmpty()) {
                 String[] keywords = pathQuery.split("\\s*(?i)AND\\s*");
 
-                String pathSql = "SELECT file_path, content FROM file_index WHERE " +
-                        String.join(" AND ", java.util.Collections.nCopies(keywords.length, "file_path ILIKE ?")) +
-                        " ORDER BY rank_score DESC";
+                String pathSql = "SELECT file_path, content, rank_score FROM file_index WHERE " +
+                        String.join(" AND ", java.util.Collections.nCopies(keywords.length, "file_path ILIKE ?"));
 
 
                 try (PreparedStatement stmt = conn.prepareStatement(pathSql)) {
@@ -39,19 +38,27 @@ public class QueryExecutor {
                     while (rs.next()) {
                         String filePath = rs.getString("file_path");
                         String content = rs.getString("content");
+                        float rankScore = rs.getFloat("rank_score");
 
-                        pathMatches.add(new String[]{filePath, content});
+                        for (String keyword : keywords) {
+                            String key = "path:" + keyword.trim().toLowerCase();
+                            int freq = frequencyMap.getOrDefault(key, 0);
+                            rankScore += freq * 5;
+                        }
+
+                        pathMatches.add(new String[]{filePath, content, String.valueOf(rankScore)});
                     }
+
+                    pathMatches.sort((a, b) -> Float.compare(Float.parseFloat(b[2]), Float.parseFloat(a[2])));
                 }
             }
 
 
             if (!contentQuery.isEmpty()) {
                 String contentSql = """
-                SELECT file_path, content
+                SELECT file_path, content, rank_score
                 FROM file_index
                 WHERE index_content @@ plainto_tsquery(?)
-                ORDER BY rank_score DESC
             """;
 
                 try (PreparedStatement stmt = conn.prepareStatement(contentSql)) {
@@ -61,11 +68,21 @@ public class QueryExecutor {
                     while (rs.next()) {
                         String filePath = rs.getString("file_path");
                         String content = rs.getString("content");
+                        float rankScore = rs.getFloat("rank_score");
+
+                        String[] keywords = contentQuery.split("\\s*(?i)AND\\s*");
+                        for (String keyword : keywords) {
+                            String key = "content:" + keyword.trim().toLowerCase();
+                            int freq = frequencyMap.getOrDefault(key, 0);
+                            rankScore += freq * 3;
+                        }
 
                         if (pathMatches.stream().noneMatch(f -> f[0].equals(filePath))) {
-                            contentMatches.add(new String[]{filePath, content});
+                            contentMatches.add(new String[]{filePath, content, String.valueOf(rankScore)});
                         }
                     }
+
+                    contentMatches.sort((a, b) -> Float.compare(Float.parseFloat(b[2]), Float.parseFloat(a[2])));
                 }
             }
 
@@ -77,7 +94,4 @@ public class QueryExecutor {
         resultMap.put("content", contentMatches);
         return resultMap;
     }
-
-
-
 }

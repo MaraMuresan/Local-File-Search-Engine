@@ -15,8 +15,8 @@ public class SearchService {
         this.fileIndexer = fileIndexer;
     }
 
-    public Map<String, List<String[]>> advancedSearch(Map<String, String> qualifiers) {
-        return dbExecutor.searchWithQualifiers(qualifiers);
+    public Map<String, List<String[]>> advancedSearch(Map<String, String> qualifiers, Map<String, Integer> frequencyMap) {
+        return dbExecutor.searchWithQualifiers(qualifiers, frequencyMap);
     }
 
 }
