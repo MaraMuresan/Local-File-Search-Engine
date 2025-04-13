@@ -1,10 +1,12 @@
 package filesystem;
 
 import org.apache.tika.Tika;
+import ranking.RankingBoostStrategy;
 import report.ReportGenerationStrategy;
 
 import java.io.IOException;
 import java.nio.file.*;
+import java.nio.file.attribute.FileTime;
 import java.sql.*;
 import java.util.Date;
 import java.util.ArrayList;
@@ -24,9 +26,11 @@ public class FileIndexer {
     private final List<String> failedFiles = new ArrayList<>();
 
     private final ReportGenerationStrategy reportStrategy;
+    private final RankingBoostStrategy boostStrategy;
 
-    public FileIndexer(ReportGenerationStrategy reportStrategy) {
+    public FileIndexer(ReportGenerationStrategy reportStrategy, RankingBoostStrategy boostStrategy) {
         this.reportStrategy = reportStrategy;
+        this.boostStrategy = boostStrategy;
     }
 
     public void indexFolder(Path folderPath) {
@@ -51,9 +55,10 @@ public class FileIndexer {
                             String filePath = file.toString().replace("\\", "/");
                             String extension = getFileExtension(filePath);
                             String tags = "";
-                            Timestamp timestamp = new Timestamp(new Date().getTime());
+                            FileTime fileTime = Files.getLastModifiedTime(file);
+                            Timestamp timestamp = new Timestamp(fileTime.toMillis());
                             long size = Files.size(file); //bytes
-                            float rankScore = computeRankScore(file);
+                            float rankScore = computeRankScore(file, size, timestamp);
 
                             PreparedStatement stmt = conn.prepareStatement("""
                                 INSERT INTO file_index (file_path, content, extension, tags, timestamp, size, index_file_name, index_content, rank_score)
@@ -103,21 +108,22 @@ public class FileIndexer {
         return (dot != -1) ? filePath.substring(dot + 1) : "";
     }
 
-    private float computeRankScore(Path file) {
+    private float computeRankScore(Path file, long size, Timestamp timestamp) {
         String path = file.toString().toLowerCase();
-        float score = 0;
+        float baseScore = 0;
 
-        score += 100.0 / (path.length() + 1);
+        baseScore += 100.0 / (path.length() + 1);
 
-        if (path.contains("lab")) score += 10;
-        if (path.contains("software")) score += 5;
-        if (path.contains("image")) score += 3;
+        if (path.contains("lab")) baseScore += 10;
+        if (path.contains("software")) baseScore += 5;
+        if (path.contains("image")) baseScore += 3;
 
-        if (path.endsWith(".java")) score += 2;
-        if (path.endsWith(".txt")) score += 1;
+        if (path.endsWith(".java")) baseScore += 2;
+        if (path.endsWith(".txt")) baseScore += 1;
 
-        return score;
+        return boostStrategy.applyBoost(baseScore, size, timestamp);
     }
+
 
     private void generateReport() {
         reportStrategy.generateReport(indexedFiles, skippedFiles, failedFiles);
