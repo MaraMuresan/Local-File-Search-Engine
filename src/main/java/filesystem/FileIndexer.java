@@ -1,6 +1,7 @@
 package filesystem;
 
 import org.apache.tika.Tika;
+import report.ReportGenerationStrategy;
 
 import java.io.IOException;
 import java.nio.file.*;
@@ -21,6 +22,12 @@ public class FileIndexer {
     private final List<String> indexedFiles = new ArrayList<>();
     private final List<String> skippedFiles = new ArrayList<>();
     private final List<String> failedFiles = new ArrayList<>();
+
+    private final ReportGenerationStrategy reportStrategy;
+
+    public FileIndexer(ReportGenerationStrategy reportStrategy) {
+        this.reportStrategy = reportStrategy;
+    }
 
     public void indexFolder(Path folderPath) {
         try (Connection conn = DriverManager.getConnection(DB_URL, DB_USER, DB_PASS)) {
@@ -83,7 +90,9 @@ public class FileIndexer {
                             System.err.println("Error indexing " + file + ": " + e.getMessage());
                         }
                     });
+
             generateReport();
+
         } catch (IOException | SQLException e) {
             e.printStackTrace();
         }
@@ -111,32 +120,7 @@ public class FileIndexer {
     }
 
     private void generateReport() {
-        Path reportPath = Paths.get("index_report.txt");
-
-        try (BufferedWriter writer = Files.newBufferedWriter(reportPath)) {
-            writer.write("Indexing Report:\n\n");
-
-            writer.write("Indexed Files (" + indexedFiles.size() + "):\n");
-            for (String file : indexedFiles) {
-                writer.write(" - " + file + "\n");
-            }
-
-            writer.write("\nSkipped Files (" + skippedFiles.size() + "):\n");
-            for (String file : skippedFiles) {
-                writer.write(" - " + file + "\n");
-            }
-
-            writer.write("\nFailed Files (" + failedFiles.size() + "):\n");
-            for (String file : failedFiles) {
-                writer.write(" - " + file + "\n");
-            }
-
-            writer.write("\nReport generated on: " + new java.util.Date() + "\n");
-
-            System.out.println("Indexing report saved to: " + reportPath.toAbsolutePath());
-
-        } catch (IOException e) {
-            System.err.println("Error writing indexing report: " + e.getMessage());
-        }
+        reportStrategy.generateReport(indexedFiles, skippedFiles, failedFiles);
     }
+
 }
