@@ -1,5 +1,6 @@
 package filesystem;
 
+import config.DatabaseConfig;
 import org.apache.tika.Tika;
 import ranking.RankingBoostStrategy;
 import report.ReportGenerationStrategy;
@@ -17,9 +18,9 @@ public class FileIndexer {
 
     private static final Tika tika = new Tika();
 
-    private static final String DB_URL = "jdbc:postgresql://localhost:5432/LocalFileSearchEngine";
-    private static final String DB_USER = "postgres";
-    private static final String DB_PASS = "postgres";
+    private static final String DB_URL = DatabaseConfig.getUrl();
+    private static final String DB_USER = DatabaseConfig.getUser();
+    private static final String DB_PASS = DatabaseConfig.getPassword();
 
     private final List<String> indexedFiles = new ArrayList<>();
     private final List<String> skippedFiles = new ArrayList<>();

@@ -1,5 +1,7 @@
 package database;
 
+import config.DatabaseConfig;
+
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -7,9 +9,9 @@ import java.util.List;
 import java.util.Map;
 
 public class QueryExecutor {
-    private static final String URL = "jdbc:postgresql://localhost:5432/LocalFileSearchEngine";
-    private static final String USER = "postgres";
-    private static final String PASSWORD = "postgres";
+    private static final String URL = DatabaseConfig.getUrl();
+    private static final String USER = DatabaseConfig.getUser();
+    private static final String PASSWORD = DatabaseConfig.getPassword();
 
     public Map<String, List<String[]>> searchWithQualifiers(Map<String, String> qualifiers, Map<String, Integer> frequencyMap) {
         Map<String, List<String[]>> resultMap = new HashMap<>();
