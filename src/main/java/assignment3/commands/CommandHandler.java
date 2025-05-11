@@ -15,12 +15,12 @@ public class CommandHandler {
     public void placeOrder(String orderId, String userId, OrderPlaced.Type type, int quantity, double price) {
 
         if (quantity <= 0 || price <= 0) {
-            throw new IllegalArgumentException("Quantity and price must be greater than zero");
+            throw new IllegalArgumentException("Quantity " + quantity+ " and price " + price + " must be greater than zero");
         }
 
         OrderBook orderBook = OrderBook.replay(eventStore.getAllEvents());
         if (orderBook.isOrderActive(orderId)) {
-            throw new IllegalStateException("Order ID is already in use and active");
+            throw new IllegalStateException("Order ID " + orderId + " is already in use and active");
         }
 
         if (type == OrderPlaced.Type.BUY) {
@@ -29,7 +29,7 @@ public class CommandHandler {
             Account account = Account.replay(eventStore.getAllEvents());
             double balance = account.getBalance(userId);
             if (balance < cost) {
-                throw new IllegalStateException("Insufficient funds to place BUY order");
+                throw new IllegalStateException("Insufficient funds to place BUY order " + orderId);
             }
 
             withdrawFunds(userId, cost);
@@ -43,7 +43,13 @@ public class CommandHandler {
         OrderBook orderBook = OrderBook.replay(eventStore.getAllEvents());
 
         if (!orderBook.isOrderActive(orderId)) {
-            throw new IllegalStateException("Cannot cancel: order does not exist");
+            throw new IllegalStateException("Cannot cancel: order " + orderId + " does not exist");
+        }
+
+        OrderPlaced order = orderBook.getOrder(orderId);
+        if (order != null && order.type == OrderPlaced.Type.BUY) {
+            double refund = order.quantity * order.price;
+            depositFunds(order.userId, refund);
         }
 
         eventStore.append(new OrderCancelled(orderId));
@@ -54,7 +60,7 @@ public class CommandHandler {
         OrderBook orderBook = OrderBook.replay(eventStore.getAllEvents());
 
         if (!orderBook.isOrderActive(buyOrderId) || !orderBook.isOrderActive(sellOrderId)) {
-            throw new IllegalStateException("Cannot execute trade: one or both orders are no longer active");
+            throw new IllegalStateException("Cannot execute trade: one or both orders (" + buyOrderId + " or " + sellOrderId + ") are no longer active");
         }
 
         eventStore.append(new TradeExecuted(buyOrderId, sellOrderId, quantity, price));

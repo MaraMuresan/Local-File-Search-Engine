@@ -27,6 +27,10 @@ public class OrderBook {
         }
     }
 
+    public OrderPlaced getOrder(String orderId) {
+        return activeOrders.get(orderId);
+    }
+
     public Collection<OrderPlaced> getActiveOrders() {
         return activeOrders.values();
     }
