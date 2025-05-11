@@ -1,5 +1,6 @@
 package assignment3.commands;
 
+import assignment3.domains.Account;
 import assignment3.events.*;
 import assignment3.store.EventStore;
 
@@ -14,6 +15,13 @@ public class CommandHandler {
 
         if (type == OrderPlaced.Type.BUY) {
             double cost = quantity * price;
+
+            Account account = Account.replay(eventStore.getAllEvents());
+            double balance = account.getBalance(userId);
+            if (balance < cost) {
+                throw new IllegalStateException("Insufficient funds to place BUY order");
+            }
+
             withdrawFunds(userId, cost);
         }
 
