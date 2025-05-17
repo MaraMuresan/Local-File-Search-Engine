@@ -20,7 +20,7 @@ public class CutWidget extends JPanel {
         info.setEditable(false);
         info.setBackground(getBackground());
 
-        JButton learnMore = new JButton("Want to learn more about cut in Prolog?");
+        JButton learnMore = new JButton("Learn more about Cut in Prolog");
         learnMore.addActionListener((ActionEvent e) -> {
             try {
                 Desktop.getDesktop().browse(new java.net.URI("https://athena.ecs.csus.edu/~mei/logicp/cut-negation.html#:~:text=Cut%20basically%20gives%20order%20to,side)%20or%20on%20prolog%20query."));

@@ -21,6 +21,9 @@ public class WidgetPanel extends JPanel {
         if (query.contains("cut")) {
             addWidget("cut", new CutWidget());
         }
+        if (query.contains("networks")) {
+            addWidget("networks", new NetworksWidget());
+        }
 
         revalidate();
         repaint();
