@@ -1,6 +1,6 @@
 package application;
 
-import database.QueryExecutor;
+import database.CachedQueryExecutor;
 import filesystem.IndexReader;
 import gui.*;
 import searchcontroller.SearchService;
@@ -11,7 +11,7 @@ import javax.swing.*;
 public class Main {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
-            QueryExecutor executor = new QueryExecutor();
+            CachedQueryExecutor executor = new CachedQueryExecutor();
             IndexReader indexReader = new IndexReader();
             SearchService service = new SearchService(executor, indexReader);
 

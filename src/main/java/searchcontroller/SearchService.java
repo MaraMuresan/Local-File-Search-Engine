@@ -1,16 +1,16 @@
 package searchcontroller;
 
-import database.QueryExecutor;
+import database.CachedQueryExecutor;
 import filesystem.IndexReader;
 
 import java.util.List;
 import java.util.Map;
 
 public class SearchService {
-    private final QueryExecutor dbExecutor;
+    private final CachedQueryExecutor dbExecutor;
     private final IndexReader fileIndexer;
 
-    public SearchService(QueryExecutor dbExecutor, IndexReader fileIndexer) {
+    public SearchService(CachedQueryExecutor dbExecutor, IndexReader fileIndexer) {
         this.dbExecutor = dbExecutor;
         this.fileIndexer = fileIndexer;
     }
