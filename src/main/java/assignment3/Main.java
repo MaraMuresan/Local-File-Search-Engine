@@ -35,7 +35,7 @@ public class Main {
 
             handler.cancelOrder("b2");
 
-            //handler.executeTrade("b3", "s3", 1, 100, "diana", "raluca");
+            handler.executeTrade("b3", "s3", 1, 100, "diana", "raluca");
 
             //try ordering with a duplicate id
             handler.placeOrder("b3", "mara", OrderPlaced.Type.BUY, 1, 200);

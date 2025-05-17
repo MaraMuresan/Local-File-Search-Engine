@@ -15,12 +15,14 @@ public class SearchControllerClient {
     private final StatusBox statusBox;
     private final List<SearchObserver> observers = new ArrayList<>();
     private final SearchHistoryLogger historyLogger;
+    private final WidgetPanel widgetPanel;
 
-    public SearchControllerClient(SearchService service, ResultDisplay display, StatusBox status, SearchHistoryLogger historyLogger) {
+    public SearchControllerClient(SearchService service, ResultDisplay display, StatusBox status, SearchHistoryLogger historyLogger, WidgetPanel widgetPanel) {
         this.searchService = service;
         this.resultDisplay = display;
         this.statusBox = status;
         this.historyLogger = historyLogger;
+        this.widgetPanel = widgetPanel;
         addObserver(historyLogger);
     }
 
@@ -49,6 +51,8 @@ public class SearchControllerClient {
 
             int total = pathMatches.size() + contentMatches.size();
             statusBox.setStatus("Found " + total + " results.");
+
+            widgetPanel.showWidgetsForQuery(query);
 
         } else {
             statusBox.setStatus("Invalid query.");

@@ -18,7 +18,8 @@ public class Main {
             ResultDisplay display = new ResultDisplay();
             StatusBox status = new StatusBox();
             SearchHistoryLogger historyLogger = new SearchHistoryLogger();
-            SearchControllerClient client = new SearchControllerClient(service, display, status, historyLogger);
+            WidgetPanel widgetPanel = new WidgetPanel();
+            SearchControllerClient client = new SearchControllerClient(service, display, status, historyLogger, widgetPanel);
             SearchInput input = new SearchInput(client);
 
             status.setHistory(historyLogger.getLastSearches(3));
@@ -29,6 +30,7 @@ public class Main {
             frame.add(input, "North");
             frame.add(display, "Center");
             frame.add(status, "South");
+            frame.add(widgetPanel, "East");
             frame.pack();
             frame.setVisible(true);
         });
