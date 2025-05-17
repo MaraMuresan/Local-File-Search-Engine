@@ -2,9 +2,11 @@ package gui;
 
 import observer.SearchHistoryLogger;
 import observer.SearchObserver;
+import searchcontroller.CorrectionStrategy;
 import searchcontroller.RequestHandler;
 import searchcontroller.SearchService;
 
+import javax.swing.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -16,13 +18,15 @@ public class SearchControllerClient {
     private final List<SearchObserver> observers = new ArrayList<>();
     private final SearchHistoryLogger historyLogger;
     private final WidgetPanel widgetPanel;
+    private final CorrectionStrategy spellingCorrector;
 
-    public SearchControllerClient(SearchService service, ResultDisplay display, StatusBox status, SearchHistoryLogger historyLogger, WidgetPanel widgetPanel) {
+    public SearchControllerClient(SearchService service, ResultDisplay display, StatusBox status, SearchHistoryLogger historyLogger, WidgetPanel widgetPanel, CorrectionStrategy spellingCorrector) {
         this.searchService = service;
         this.resultDisplay = display;
         this.statusBox = status;
         this.historyLogger = historyLogger;
         this.widgetPanel = widgetPanel;
+        this.spellingCorrector = spellingCorrector;
         addObserver(historyLogger);
     }
 
@@ -30,6 +34,36 @@ public class SearchControllerClient {
         RequestHandler handler = new RequestHandler();
 
         if (handler.isValidQuery(query)) {
+
+            String[] terms = query.trim().split("\\s+");
+            StringBuilder corrected = new StringBuilder();
+
+            for (String term : terms) {
+                if (term.contains(":")) {
+                    String[] parts = term.split(":", 2);
+                    String prefix = spellingCorrector.correct(parts[0]);
+                    String raw = spellingCorrector.correct(parts[1]);
+                    corrected.append(prefix).append(":").append(raw).append(" ");
+                } else {
+                    corrected.append(spellingCorrector.correct(term)).append(" ");
+                }
+            }
+
+            String originalQuery = query.trim();
+            query = corrected.toString().trim();
+
+            if (!query.equalsIgnoreCase(originalQuery)) {
+                int choice = JOptionPane.showConfirmDialog(
+                        null,
+                        "Did you mean:\n" + query + "?",
+                        "Spelling Suggestion",
+                        JOptionPane.YES_NO_OPTION
+                );
+
+                if (choice == JOptionPane.NO_OPTION) {
+                    query = originalQuery;
+                }
+            }
 
             for (SearchObserver observer : observers) {
                 observer.onSearch(query);

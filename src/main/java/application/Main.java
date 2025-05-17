@@ -3,10 +3,14 @@ package application;
 import database.CachedQueryExecutor;
 import filesystem.IndexReader;
 import gui.*;
+import searchcontroller.CorrectionStrategy;
 import searchcontroller.SearchService;
 import observer.SearchHistoryLogger;
+import searchcontroller.SpellingCorrectorV1;
 
 import javax.swing.*;
+import java.io.File;
+import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) {
@@ -19,7 +23,15 @@ public class Main {
             StatusBox status = new StatusBox();
             SearchHistoryLogger historyLogger = new SearchHistoryLogger();
             WidgetPanel widgetPanel = new WidgetPanel();
-            SearchControllerClient client = new SearchControllerClient(service, display, status, historyLogger, widgetPanel);
+            CorrectionStrategy corrector;
+            try {
+                corrector = new SpellingCorrectorV1(new File("search_history.txt"));
+            } catch (IOException e) {
+                e.printStackTrace();
+                corrector = word -> word;
+            }
+            SearchControllerClient client = new SearchControllerClient(service, display, status, historyLogger, widgetPanel, corrector);
+
             SearchInput input = new SearchInput(client);
 
             status.setHistory(historyLogger.getLastSearches(3));
