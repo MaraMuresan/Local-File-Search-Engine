@@ -3,6 +3,7 @@ package application;
 import database.CachedQueryExecutor;
 import filesystem.IndexReader;
 import gui.*;
+import gui.SearchControllerFacade;
 import searchcontroller.CorrectionStrategy;
 import searchcontroller.SearchService;
 import observer.SearchHistoryLogger;
@@ -30,7 +31,10 @@ public class Main {
                 e.printStackTrace();
                 corrector = word -> word;
             }
-            SearchControllerClient client = new SearchControllerClient(service, display, status, historyLogger, widgetPanel, corrector);
+
+            SearchControllerFacade facade = new SearchControllerFacade(executor, display, status, historyLogger, widgetPanel, corrector);
+
+            SearchControllerClient client = new SearchControllerClient(facade);
 
             SearchInput input = new SearchInput(client);
 
