@@ -91,10 +91,20 @@ public class SearchControllerFacade{
             allResults.addAll(contentMatches);
 
             Map<String, Integer> fileTypes = new HashMap<>();
+            Map<String, Integer> months = new HashMap<>();
 
             for (String[] row : allResults) {
                 String ext = row.length > 3 ? row[3].toLowerCase() : "unknown";
                 fileTypes.put(ext, fileTypes.getOrDefault(ext, 0) + 1);
+
+                if (row.length > 4) {
+                    String timestamp = row[4];
+                    if (timestamp.length() >= 7) {
+                        String monthPart = timestamp.substring(5, 7);
+                        String monthName = getMonthName(monthPart);
+                        months.put(monthName, months.getOrDefault(monthName, 0) + 1);
+                    }
+                }
             }
 
             String typeSummary = fileTypes.entrySet().stream()
@@ -103,8 +113,15 @@ public class SearchControllerFacade{
                     .reduce((a, b) -> a + ", " + b)
                     .orElse("None");
 
+            String monthSummary = months.entrySet().stream()
+                    .sorted(Map.Entry.<String, Integer>comparingByValue().reversed())
+                    .map(e -> e.getKey() + " (" + e.getValue() + ")")
+                    .reduce((a, b) -> a + ", " + b)
+                    .orElse("None");
+
             String statusText = "Found " + total + " results\n" +
-                    "File Types: " + typeSummary + "\n";
+                    "File Types: " + typeSummary + "\n" +
+                    "Modified Months: " + monthSummary;
 
             statusBox.setStatus(statusText);
 
@@ -119,6 +136,24 @@ public class SearchControllerFacade{
 
     public void addObserver(SearchObserver observer) {
         observers.add(observer);
+    }
+
+    private String getMonthName(String monthNum) {
+        return switch (monthNum) {
+            case "01" -> "January";
+            case "02" -> "February";
+            case "03" -> "March";
+            case "04" -> "April";
+            case "05" -> "May";
+            case "06" -> "June";
+            case "07" -> "July";
+            case "08" -> "August";
+            case "09" -> "September";
+            case "10" -> "October";
+            case "11" -> "November";
+            case "12" -> "December";
+            default -> "Unknown";
+        };
     }
 
 }
