@@ -86,7 +86,9 @@ public class SearchControllerFacade{
             int total = pathMatches.size() + contentMatches.size();
             statusBox.setStatus("Found " + total + " results.");
 
-            widgetPanel.showWidgetsForQuery(query);
+            List<JPanel> widgets = WidgetFactory.getContextWidgets(pathMatches, contentMatches);
+            widgetPanel.showWidgets(query, widgets);
+
 
         } else {
             statusBox.setStatus("Invalid query.");

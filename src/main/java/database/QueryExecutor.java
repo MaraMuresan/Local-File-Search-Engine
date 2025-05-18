@@ -26,7 +26,7 @@ public class QueryExecutor {
             if (!pathQuery.isEmpty()) {
                 String[] keywords = pathQuery.split("\\s*(?i)AND\\s*");
 
-                String pathSql = "SELECT file_path, content, rank_score FROM file_index WHERE " +
+                String pathSql = "SELECT file_path, content, rank_score, extension FROM file_index WHERE " +
                         String.join(" AND ", java.util.Collections.nCopies(keywords.length, "file_path ILIKE ?"));
 
 
@@ -41,6 +41,7 @@ public class QueryExecutor {
                         String filePath = rs.getString("file_path");
                         String content = rs.getString("content");
                         float rankScore = rs.getFloat("rank_score");
+                        String extension = rs.getString("extension");
 
                         for (String keyword : keywords) {
                             String key = "path:" + keyword.trim().toLowerCase();
@@ -48,7 +49,7 @@ public class QueryExecutor {
                             rankScore += freq * 5;
                         }
 
-                        pathMatches.add(new String[]{filePath, content, String.valueOf(rankScore)});
+                        pathMatches.add(new String[]{filePath, content, String.valueOf(rankScore), extension});
                     }
 
                     pathMatches.sort((a, b) -> Float.compare(Float.parseFloat(b[2]), Float.parseFloat(a[2])));
@@ -58,7 +59,7 @@ public class QueryExecutor {
 
             if (!contentQuery.isEmpty()) {
                 String contentSql = """
-                SELECT file_path, content, rank_score
+                SELECT file_path, content, rank_score, extension
                 FROM file_index
                 WHERE index_content @@ plainto_tsquery(?)
             """;
@@ -71,6 +72,7 @@ public class QueryExecutor {
                         String filePath = rs.getString("file_path");
                         String content = rs.getString("content");
                         float rankScore = rs.getFloat("rank_score");
+                        String extension = rs.getString("extension");
 
                         String[] keywords = contentQuery.split("\\s*(?i)AND\\s*");
                         for (String keyword : keywords) {
@@ -80,7 +82,7 @@ public class QueryExecutor {
                         }
 
                         if (pathMatches.stream().noneMatch(f -> f[0].equals(filePath))) {
-                            contentMatches.add(new String[]{filePath, content, String.valueOf(rankScore)});
+                            contentMatches.add(new String[]{filePath, content, String.valueOf(rankScore), extension});
                         }
                     }
 

@@ -7,8 +7,10 @@ import java.awt.event.ActionEvent;
 public class NetworksWidget extends JPanel {
     public NetworksWidget() {
         setLayout(new BorderLayout());
-        setPreferredSize(new Dimension(280, 100));
-        setBackground(new Color(255, 255, 170));
+        JPanel content = new JPanel();
+        content.setLayout(new BoxLayout(content, BoxLayout.Y_AXIS));
+        content.setBackground(new Color(255, 255, 170));
+        content.setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10));
         setBorder(BorderFactory.createTitledBorder("Cisco Packet Tracer"));
 
         JTextArea info = new JTextArea(
@@ -18,7 +20,7 @@ public class NetworksWidget extends JPanel {
         info.setLineWrap(true);
         info.setWrapStyleWord(true);
         info.setEditable(false);
-        info.setBackground(getBackground());
+        info.setBackground(content.getBackground());
 
         JButton learnMore = new JButton("Learn more about Cisco Packet Tracer");
         learnMore.addActionListener((ActionEvent e) -> {
@@ -29,7 +31,10 @@ public class NetworksWidget extends JPanel {
             }
         });
 
-        add(info, BorderLayout.CENTER);
-        add(learnMore, BorderLayout.SOUTH);
+        content.add(info);
+        content.add(Box.createVerticalStrut(10));
+        content.add(learnMore);
+
+        add(content, BorderLayout.CENTER);
     }
 }

@@ -7,8 +7,10 @@ import java.awt.event.ActionEvent;
 public class CutWidget extends JPanel {
     public CutWidget() {
         setLayout(new BorderLayout());
-        setPreferredSize(new Dimension(280, 100));
-        setBackground(new Color(255, 209, 255));
+        JPanel content = new JPanel();
+        content.setLayout(new BoxLayout(content, BoxLayout.Y_AXIS));
+        content.setBackground(new Color(255, 209, 255));
+        content.setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10));
         setBorder(BorderFactory.createTitledBorder("Logic Programming: Cut"));
 
         JTextArea info = new JTextArea(
@@ -18,7 +20,7 @@ public class CutWidget extends JPanel {
         info.setLineWrap(true);
         info.setWrapStyleWord(true);
         info.setEditable(false);
-        info.setBackground(getBackground());
+        info.setBackground(content.getBackground());
 
         JButton learnMore = new JButton("Learn more about Cut in Prolog");
         learnMore.addActionListener((ActionEvent e) -> {
@@ -29,7 +31,10 @@ public class CutWidget extends JPanel {
             }
         });
 
-        add(info, BorderLayout.CENTER);
-        add(learnMore, BorderLayout.SOUTH);
+        content.add(info);
+        content.add(Box.createVerticalStrut(10));
+        content.add(learnMore);
+
+        add(content, BorderLayout.CENTER);
     }
 }
