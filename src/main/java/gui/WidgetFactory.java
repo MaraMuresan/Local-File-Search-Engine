@@ -5,11 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class WidgetFactory {
-    public static List<JPanel> getContextWidgets(List<String[]> pathResults, List<String[]> contentResults) {
-        List<String[]> allResults = new ArrayList<>();
-        allResults.addAll(pathResults);
-        allResults.addAll(contentResults);
-
+    public static List<JPanel> getContextWidgets(List<String[]> allResults) {
         int imageCount = 0;
         int docxCount = 0;
 

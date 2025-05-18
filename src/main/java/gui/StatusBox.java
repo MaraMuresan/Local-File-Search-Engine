@@ -5,14 +5,23 @@ import java.awt.*;
 import java.util.List;
 
 public class StatusBox extends JPanel {
-    private JLabel statusLabel;
+    private JTextArea statusLabel;
     private JLabel historyLabel;
 
     public StatusBox() {
         setLayout(new GridLayout(2, 1));
 
-        statusLabel = new JLabel("Ready", SwingConstants.CENTER);
+        Font boldFont = new Font("SansSerif", Font.BOLD, 12);
+
+        statusLabel = new JTextArea("Ready");
+        statusLabel.setLineWrap(true);
+        statusLabel.setWrapStyleWord(true);
+        statusLabel.setEditable(false);
+        statusLabel.setFont(boldFont);
+        statusLabel.setBackground(getBackground());
+
         historyLabel = new JLabel("Last searches: ", SwingConstants.CENTER);
+        historyLabel.setFont(boldFont);
 
         add(statusLabel);
         add(historyLabel);

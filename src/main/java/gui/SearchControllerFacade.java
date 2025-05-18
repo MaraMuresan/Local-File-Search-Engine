@@ -8,6 +8,7 @@ import searchcontroller.RequestHandler;
 
 import javax.swing.*;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -84,9 +85,30 @@ public class SearchControllerFacade{
             resultDisplay.updateResults(pathMatches, contentMatches, highlightQuery);
 
             int total = pathMatches.size() + contentMatches.size();
-            statusBox.setStatus("Found " + total + " results.");
 
-            List<JPanel> widgets = WidgetFactory.getContextWidgets(pathMatches, contentMatches);
+            List<String[]> allResults = new ArrayList<>();
+            allResults.addAll(pathMatches);
+            allResults.addAll(contentMatches);
+
+            Map<String, Integer> fileTypes = new HashMap<>();
+
+            for (String[] row : allResults) {
+                String ext = row.length > 3 ? row[3].toLowerCase() : "unknown";
+                fileTypes.put(ext, fileTypes.getOrDefault(ext, 0) + 1);
+            }
+
+            String typeSummary = fileTypes.entrySet().stream()
+                    .sorted(Map.Entry.<String, Integer>comparingByValue().reversed())
+                    .map(e -> e.getKey().toUpperCase() + " (" + e.getValue() + ")")
+                    .reduce((a, b) -> a + ", " + b)
+                    .orElse("None");
+
+            String statusText = "Found " + total + " results\n" +
+                    "File Types: " + typeSummary + "\n";
+
+            statusBox.setStatus(statusText);
+
+            List<JPanel> widgets = WidgetFactory.getContextWidgets(allResults);
             widgetPanel.showWidgets(query, widgets);
 
 
