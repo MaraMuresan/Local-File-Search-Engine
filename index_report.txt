@@ -1,13 +1,43 @@
 Indexing Report:
 
-Indexed Files (988):
+Indexed Files (1104):
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN10.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN2.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN3a_2022.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN3b_2022.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN4.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN4_2.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN5.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN7.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN9.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab10.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab3.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab4.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8\.gitignore
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8\.idea\.gitignore
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8\src\main\java\org\example\Main.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8\src\main\java\org\example\RingNode.java
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\test SD.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\Tools and cables2.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\Tools and cables3.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laborator 1 FLT (ro) 2023.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 1 FLT (eng) 2023.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 10 FLT (eng).pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 11 FLT (eng).pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 2 FLT (eng) 2023.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 3 FLT (eng).pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 4 FLT (eng).pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 5 FLT (eng).pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 6 and 7 FLT (eng).pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 8 FLT (eng).pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 9 FLT (eng).pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\IP_labs.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\common.cpp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\common.h
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\doc\opencv2manager.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\doc\opencv2refman.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\doc\opencv_cheatsheet.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\doc\opencv_tutorials.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\doc\opencv_user.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\reconstruct.txt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\OpenCV\include\opencv2\calib3d\calib3d.hpp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\OpenCV\include\opencv2\calib3d\calib3d_c.h
@@ -366,12 +396,23 @@ Indexed Files (988):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\stdafx.cpp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\stdafx.h
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\targetver.h
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVAp.32A91DE2.tlog\CL.command.1.tlog
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVAp.32A91DE2.tlog\Cl.items.tlog
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVAp.32A91DE2.tlog\CL.read.1.tlog
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVAp.32A91DE2.tlog\CL.write.1.tlog
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVAp.32A91DE2.tlog\link.command.1.tlog
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVAp.32A91DE2.tlog\link.read.1.tlog
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVAp.32A91DE2.tlog\link.write.1.tlog
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVAp.32A91DE2.tlog\OpenCVApplication.lastbuildstate
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVApplication.log
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVApplication.vcxproj.FileListAbsolute.txt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\common.cpp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\common.h
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\doc\opencv2manager.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\doc\opencv2refman.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\doc\opencv_cheatsheet.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\doc\opencv_tutorials.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\doc\opencv_user.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\OpenCV\include\opencv2\calib3d\calib3d.hpp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\OpenCV\include\opencv2\calib3d\calib3d_c.h
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\OpenCV\include\opencv2\calib3d.hpp
@@ -729,11 +770,18 @@ Indexed Files (988):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\stdafx.cpp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\stdafx.h
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\targetver.h
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVAp.32A91DE2.tlog\CL.command.1.tlog
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVAp.32A91DE2.tlog\Cl.items.tlog
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVAp.32A91DE2.tlog\CL.read.1.tlog
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVAp.32A91DE2.tlog\CL.write.1.tlog
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVAp.32A91DE2.tlog\link.command.1.tlog
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVAp.32A91DE2.tlog\link.read.1.tlog
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVAp.32A91DE2.tlog\link.write.1.tlog
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVAp.32A91DE2.tlog\OpenCVApplication.lastbuildstate
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVApplication.log
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVApplication.vcxproj.FileListAbsolute.txt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project Research.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Red-Eye Removal.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\redEyeRemoval\adredeye.py
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\.idea\.gitignore
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\B_Model_Tutorial_4_Bayesian_Networks.ipynb
@@ -744,6 +792,8 @@ Indexed Files (988):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProjectLab2\.idea\.gitignore
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProjectLab2\exercitiu35curs.ipynb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProjectLab2\is03t03.ipynb
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\IS-2324-L07.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\IS-2425-L02.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.idea\.gitignore
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.ipynb_checkpoints\exxercitiu-checkpoint.ipynb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.ipynb_checkpoints\quiz1-checkpoint.ipynb
@@ -762,7 +812,9 @@ Indexed Files (988):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\data\Iris.csv
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\data\restaurant.csv
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\img\irisDT
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\img\irisDT.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\img\restaurantGT
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\img\restaurantGT.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\Iris.ipynb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\IrisOctavian.ipynb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\metrics.ipynb
@@ -773,27 +825,81 @@ Indexed Files (988):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab7\Gradient_Descent_animation.ipynb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\.idea\.gitignore
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\.ipynb_checkpoints\MuresanMara-checkpoint.ipynb
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\data\MergeConflictsDataset.csv
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\MuresanMara.ipynb
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab1. (EN) Introduction to Prolog.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab1.pl
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab1.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab10. (EN) Graphs.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab10.pl
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab10.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab2. (EN) Arithmetic Operations.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab2.pl
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab2.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab3. (EN) Operations on Lists.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab3.pl
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab3.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab4. (EN) The Cut.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab4.pl
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab4.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab5. (EN) Sorting Methods.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab5.pl
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab5.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab6. (EN) Deep Lists.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab6.pl
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab6.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab7. (EN) Trees.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab7.pl
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab7.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab8. (EN) Incomplete Structures.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab8.pl
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab8.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab9. (EN) Difference Lists.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab9.pl
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab9.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Lectures\LP_#0_2025.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Lectures\LP_#1_2025.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Lectures\LP_#2_2025.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Lectures\LP_#3_2025.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Lectures\LP_#4_2025.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Lectures\LP_#5_2025.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 1.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 11.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 12.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 2.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 3 .pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 4.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 5.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 8.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa_de_asistenta_2.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de asistență 1.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de asistență 2.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de asistență 3.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de asistență 4.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de asistență 5.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de autoreflecție.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de caracterizare a competențelor profesionale (fișă. obs)_1.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de caracterizare a competențelor profesionale (fișă. obs)_2.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă psihopedagogică.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de asistență 1.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de asistență 2.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de asistență 3.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de asistență 4.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de asistență 5.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de autoreflecție.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de caracterizare a competențelor profesionale (fișă. obs)_1.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de caracterizare a competențelor profesionale (fișă. obs)_2.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă psihopedagogică.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Plan de lectie - cls 8.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Plan de lectie - cls 8.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\2025_SD_Assignment_1.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\2025_SD_Assignment_2.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\2025_SD_Assignment_3.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\2025_SD_Project_Iteration_1.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\2025_SD_Project_Iteration_2.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\2025_SD_Project_Iteration_3.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\atentie.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\c4.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\apple.txt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\appleNew.c
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\ex1.txt
@@ -929,6 +1035,7 @@ Indexed Files (988):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\docs\ARCHITECTURE.md
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\index_report.txt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\search_history.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\search_results.txt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\application\Main.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\application\RunIndexer.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\assignment2\controller\MasterController.java
@@ -952,15 +1059,20 @@ Indexed Files (988):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\assignment3\Main.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\assignment3\store\EventStore.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\config\DatabaseConfig.java
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\database\CachedQueryExecutor.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\database\QueryExecutor.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\database\ResultMapper.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\filesystem\FileAccess.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\filesystem\FileIndexer.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\filesystem\IndexReader.java
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\gui\CutWidget.java
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\gui\NetworksWidget.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\gui\ResultDisplay.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\gui\SearchControllerClient.java
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\gui\SearchControllerFacade.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\gui\SearchInput.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\gui\StatusBox.java
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\gui\WidgetPanel.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\observer\SearchHistoryLogger.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\observer\SearchObserver.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\ranking\CombinedBoostStrategy.java
@@ -972,9 +1084,11 @@ Indexed Files (988):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\report\ReportGenerationStrategy.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\report\ReportStrategyFactory.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\report\TxtReportStrategy.java
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\searchcontroller\CorrectionStrategy.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\searchcontroller\RequestHandler.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\searchcontroller\ResultBuilder.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\searchcontroller\SearchService.java
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\java\searchcontroller\SpellingCorrectorV1.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\resources\application-master.properties
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\resources\application-worker1.properties
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\src\main\resources\application-worker2.properties
@@ -989,26 +1103,16 @@ Indexed Files (988):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\application-worker4.properties
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\application-worker5.properties
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\config.properties
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Lectures\Lecture1_Intro_SOLID.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Lectures\Lecture2_GRASP_PackageDesign.pdf
 
-Skipped Files (880):
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN10.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN2.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN3a_2022.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN3b_2022.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN4.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN4_2.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN5.pdf
+Skipped Files (853):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN6.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN7.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN9.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab10.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab10.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab10_v1.pkt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab10_v2.pkt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab3.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab3.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab4.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab4.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab5.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab6.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab6.pkt
@@ -1025,21 +1129,7 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8_capture.jpg
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8_wireshark.pcapng
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab9.pkt
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\Tools and cables2.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\Tools and cables3.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\~$lab6.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laborator 1 FLT (ro) 2023.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 1 FLT (eng) 2023.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 10 FLT (eng).pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 11 FLT (eng).pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 2 FLT (eng) 2023.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 3 FLT (eng).pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 4 FLT (eng).pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 5 FLT (eng).pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 6 and 7 FLT (eng).pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 8 FLT (eng).pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laboratory 9 FLT (eng).pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\IP_labs.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\.vs\OpenCVApplication\FileContentIndex\39932307-2fa7-4c80-8899-3deb30304e1b.vsidx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\.vs\OpenCVApplication\FileContentIndex\3f6a8c1f-0e2f-40b2-a514-473e1092f0e4.vsidx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\.vs\OpenCVApplication\FileContentIndex\617c2931-0f0d-4c92-afef-5010d24bb561.vsidx
@@ -1060,11 +1150,6 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\.vs\VSWorkspaceState.json
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\clean.bat
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\CppProperties.json
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\doc\opencv2manager.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\doc\opencv2refman.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\doc\opencv_cheatsheet.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\doc\opencv_tutorials.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\doc\opencv_user.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\gray_background.bmp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\horizontal_ellipse.bmp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\object_holes.bmp
@@ -1185,11 +1270,6 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\.vs\VSWorkspaceState.json
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\clean.bat
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\CppProperties.json
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\doc\opencv2manager.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\doc\opencv2refman.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\doc\opencv_cheatsheet.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\doc\opencv_tutorials.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\doc\opencv_user.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\haarcascade_eye.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\Images\redeye3.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\Images\red_eyes.jpg
@@ -1218,7 +1298,6 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\stdafx.obj
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\vc143.idb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\vc143.pdb
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Red-Eye Removal.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\redEyeRemoval\data\redeye3.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\redEyeRemoval\data\red_eyes.jpg
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\redEyeRemoval\data\red_eyes2.jpg
@@ -1246,8 +1325,6 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProjectLab2\is03_alarm_model.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProjectLab2\is03_cancer_model.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\End-to-End_ML_Project.tgz
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\IS-2324-L07.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\IS-2425-L02.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.idea\inspectionProfiles\profiles_settings.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.idea\inspectionProfiles\Project_Default.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.idea\lab3.iml
@@ -1264,8 +1341,6 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\.idea\misc.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\.idea\modules.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\.idea\workspace.xml
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\img\irisDT.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\img\restaurantGT.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab7\.idea\inspectionProfiles\profiles_settings.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab7\.idea\inspectionProfiles\Project_Default.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab7\.idea\lab7.iml
@@ -1305,73 +1380,21 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\svm_roc_curve.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\svm_roc_curve_extended_model.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\train_feature_histograms.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab1. (EN) Introduction to Prolog.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab10. (EN) Graphs.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab2. (EN) Arithmetic Operations.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab3. (EN) Operations on Lists.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab4. (EN) The Cut.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab5. (EN) Sorting Methods.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab6. (EN) Deep Lists.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab7. (EN) Trees.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab8. (EN) Incomplete Structures.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab9. (EN) Difference Lists.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Lectures\LP_#0_2025.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Lectures\LP_#1_2025.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Lectures\LP_#2_2025.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Lectures\LP_#3_2025.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Lectures\LP_#4_2025.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Lectures\LP_#5_2025.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 1.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 1.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 11.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 11.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 12.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 12.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 2.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 2.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 3 .docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 3 .pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 4.doc
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 4.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 5.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 5.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 8.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 8.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa_de_asistenta_2.doc
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa_de_asistenta_2.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de asistență 1.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de asistență 2.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de asistență 3.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de asistență 4.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de asistență 5.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de autoreflecție.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de autoreflecție.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de caracterizare a competențelor profesionale (fișă. obs)_1.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de caracterizare a competențelor profesionale (fișă. obs)_1.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de caracterizare a competențelor profesionale (fișă. obs)_2.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de caracterizare a competențelor profesionale (fișă. obs)_2.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă psihopedagogică.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de asistență 1.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de asistență 2.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de asistență 3.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de asistență 4.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de asistență 5.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de autoreflecție.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de caracterizare a competențelor profesionale (fișă. obs)_1.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de caracterizare a competențelor profesionale (fișă. obs)_2.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă psihopedagogică.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Plan de lectie - cls 8.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica.zip
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Plan de lectie - cls 8.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Plan de lectie - cls 8.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\~WRL0003.tmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\2025_SD_Assignment_1.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\2025_SD_Assignment_2.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\2025_SD_Assignment_3.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\2025_SD_Project_Iteration_1.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\2025_SD_Project_Iteration_2.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\2025_SD_Project_Iteration_3.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\c4.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\fruits\apple.jpg
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\l1\.idea\compiler.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\l1\.idea\encodings.xml
@@ -1523,17 +1546,25 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\hooks\sendemail-validate.sample
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\hooks\update.sample
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\index
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\00\bfde7549841462a8f1ae14f972aca9423be064
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\02\14784c70a1fefe7c06bd86d8868a58550177fb
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\02\18a4412dd6e425b5bb43e708769a04168666e8
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\03\5d65f8cfca31efa75de0725c7bf4cf75d68221
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\04\283443ff85b81878c745f68fb05d5dd0b1c9d2
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\04\9a9eed842e785d6868ef494a76ac4f3d714e0b
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\05\9c5ba2eb3a9f775c96608b311d802318228a00
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\07\b05da2f992152f4e731a61439bc9dd8dfec6ca
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\09\3ceefa66ca4a0d247c0b1af107f74d25bfd2b4
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\0a\1364576a06ba07a0eb9920bc31728309b68fd1
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\0a\c6ae8f9f0fbc050a5cc0a9ec95afd5fdb4dbc8
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\0a\f060e27dfd31688e60d3e65a5a44cd378f4ced
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\0b\0f77d6c683968961ede9725288c1da57dc182e
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\0b\162502b906b4903c91e701843cbc8b0ccf2257
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\0b\239e35a5dd1a6ddb8f26d1fc0bcb3ce633b721
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\0b\30e799eb0072b13d882a5cb0fa2f0a38966f6e
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\0b\c10b3aba8080b58194ae3c0eab569fdd098685
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\0b\cabc8f936052e56cd972d2b1edfea5f24558ab
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\0c\040074518d0736956ab2a8bf1b9015b9476234
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\0c\9d2df0811f153b57832541b634e9ce590f1e71
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\0d\093e87e4f3e0285b38062e8223d767a559d424
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\0d\6b62e16b8ef902ebcaed811e74fa8a969b050a
@@ -1543,10 +1574,14 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\10\46e1202fec85ca34423386945b4f9af084bc29
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\12\3aa88fa3976b3fa118304998cf7b447d90d02c
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\13\566b81b018ad684f3a35fee301741b2734c8f4
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\14\034f5cc95cef11825fb131289a5545d146c810
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\14\4c36e8e0fcb3475498e535c195f031d84ed79c
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\14\73f8526d8758e0220058f631b3f8a7bf1e6236
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\14\eb514d5a5ac6fd734770d1b20fdf45ddbff9a2
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\14\f06881e9bebf39d5795da836d5c00bc8128059
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\15\7aa272a44fc5700a598a80b493ab3748a1f376
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\17\74d8cf4e0925c5c65fc23239357664f8964efe
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\19\09135a5a31f16a00e827f1ec390d62067ca6bb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\19\95258e4ecaf92ef1caaf39d490179f983c5f31
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\19\b95c82f9dd386126d10c040fa9e7c81ae045ea
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\19\bb9b08e47194eb51272eb2d11ca5e8f9943bba
@@ -1557,11 +1592,13 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\21\19d72181c9bb1a01f52f93e11fd4f230413e57
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\22\2ba97945b0b76181505658f03bcb4fd9b5617e
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\22\65d850d6f78113e490fac0f3188669b4bbdb98
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\23\efe94bfc32e350a789830cb6dbf56d69a22588
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\24\9af6e0c4da67b4cf90c9fd3a7546d3eaf261f4
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\26\7d809c039526577f87b381403af6edc3716ff7
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\26\a36ad16c0e777aa53fde3db1335cf23fed7bde
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\27\8c4697f4268c0ea61a6b854424953c2a72b5f3
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\28\a44bfe40143d9e5921ac4b92b51b2d8635f432
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\28\d22ad58c11889d76533e019a6485bdf6f612f8
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\29\39fcc1cb2cea3a08c13df02f19c3e720f1fa12
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\29\d8d70d2c3ca7c502b931225ac2d833f9556427
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\29\eedb447d62a50fca2fef2f31c2404fe33f8723
@@ -1573,9 +1610,11 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\2d\03381535986b4aa3c75b7d79f1ceff82e16dcc
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\2d\bae2acfcf27be00521eab7c6231849fb3d7b74
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\2e\627c6af6e027d4a7fa38ee7961779b6b3c5dbf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\2e\96c7fda0c1744ef7315f018da718a1564587fd
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\2f\86da1a79cbca234b01d53e15adaf11c0af20a0
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\2f\e5c6af0fbab9ae8f23181b1bdcc624947e64a0
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\30\01cf9808ae354418afdb3c4d1f4b0a6b6baffd
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\31\b1ae14ffd683f2ba2824a02d12d1d5efb1821c
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\32\04a1860101eddf0f71ccec1ab84c1ab3a9e3f4
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\32\bc5608543eaf383ceafde54b2c7c047ce786a9
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\32\fff5c6e855a0ef2518a6653104596adfa0bacc
@@ -1589,6 +1628,7 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\38\51c27d92dfe1e0e287b6318efb81c4f27fe597
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\3a\05557ba095c588b3bf8063db9bd0fd67c6324a
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\3b\b7befdbeee672d1e63047e698458c16c5f6543
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\3c\4cafc2ac864a5a7b8538f485785039e1f066ee
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\3e\91bd85398ba187bf6bef1e1e21723bd0683e00
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\3f\21082f76a42e0a5a4b4653711b8f1755277829
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\40\4f4388f635c7bf9303ce5a49e93892362947bd
@@ -1596,11 +1636,13 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\41\f84e97927e37d14201170b4481eda18b17f05e
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\43\19d992f5e27973860dda37f549db7eef7594fe
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\43\ec7968920605705cfe8bb59764ea4d5d02bae5
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\44\1023b04ee6e4633dd9376a3e59feade8b4415b
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\44\65cdf567d173094f3597b618819d340669bc45
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\44\9e906e670ad15a99f009ef00140b37c3da1ad1
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\45\f2b651e0fe2a05384d2b96215a1e480cfc1801
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\45\f56b914b24fb7d14335fd6bd28ac0838e8fa33
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\46\157954772336028a6350404460dea8db235f4a
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\46\80a14b44932fa56c77adc1c4433073074efb2b
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\46\cfc6f0af8142fc5cf688143d945a10c58b2833
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\46\d46b51f3c0321cccbf87fab586481f1e21f837
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\47\28591905c1778f127ef34700157832ad7c3a11
@@ -1613,32 +1655,45 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\4f\63bcf1c3006884e64c82843d328104b855a0d0
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\50\3e9bc0869e757f82b8ed6a920cde374e3f62e2
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\51\ac5a702f03feed5ffcd88d591735d78a2d3adc
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\52\37d6aaf91c8af489b42db959337ed071926d52
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\52\cee68c9ed1bf9e33bf7ea4a786ab4d83817ea6
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\53\25b303b9ccd37e3fbb108054ca64035e3545ec
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\54\19b948fc1503701a7a3e5c12976a5a44b92841
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\54\684043bfeb050b136efbd5b5d8426e26e17c10
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\55\99bbfe6986322302bf05b19d1f687d215477d9
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\56\5778945d66672d618bfe68b0e6b96764437d28
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\57\a6a5e83ecda4c8110e230dbb329e8b7ef012b7
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\58\e3efffb59f25274ff66ce091e44e0cd5663f88
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\58\e468510f4593eaeccac8b2661b21e3032f4b3f
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\59\c01e5e188c73b63156effb80d986f3112e7623
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5a\2975571d9670e221731fe28cbc08231c9323d7
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5a\758e7ea2747f686f91f76852c7ff0144bd0c7a
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5a\c1786900301f63dfd3c8996cdf44d10feb2a6f
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5c\25a57cc55586e9baed1a538a200e55738baddf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5c\897c17b0133fb320c61690577977d574eca501
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5c\9562790b95095451f3eed31e291ee052d3fd51
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5d\a8b2577e81a3b28eaf84a5517943b6f5fbfa65
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5d\f9eda8286f6ea9949e07dc0b5028472b1fbc80
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5e\49a97fd1c5587e1ecdec56bc79de54f13436d8
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5e\d2a0b73a41d3f7435b86435b3ca108c2e57cf0
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5e\db0c69b4b61128a91762cf7956bf52ce88075b
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5e\f86a956f601a68649d76863feb127cc33c17af
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5f\10bc6d58f8fd77d7f14bb5abb4128c4473a979
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5f\f6309b7199129c1afe4f4ec1906e640bec48c6
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\60\0adf46203f6bdb477d2e21f3eca94ab33c95b3
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\61\51ff863be6a19a697ad8cb3ba9ad493ddd3735
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\61\746f0a0b8dc854dcef672317e826f62f70d221
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\63\a1bff11ad46460f518e7f7f613fa2bd9168074
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\64\87931482d7d62f0412806a8f80b0317de91819
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\65\19df378c0b4b13c013510e1336a62cc1782624
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\66\e44ebdd3a2333206c87b99de3abdd50e94a16f
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\66\f8aa89a745eabe1f429d53dffaed2be5ec3295
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\68\4d6947e603671e9e6fd176049c55c423080e57
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\68\8529b1e0e92ca0d49a49ca0393fa85d5fc6d25
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\69\0d53d726c67c6777e210bc0ec0d5b6a3a06654
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\6a\a32f7207e92c8170402fa737c2331c32e0d9d5
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\6a\c37f3240d39a9f6115415911a3cd215edf9744
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\6a\ca2b4e1cb2c62f3cc61b231457584f71760922
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\6a\f818849f2072e2690fae376a184090ad9fd4cf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\6b\3ee7d665dfe2fa2ff0428854ee5ef5fb7d44ac
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\6b\4b0ea38e4c26d844a6be56acd40bc3abc6d2ba
@@ -1655,6 +1710,7 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\75\1bec99055965116f35bf2b11f2f2ec40088168
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\75\9e7d0a964e0d6d7bdc3b3c1de8487eb81d2030
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\76\4a0d3a2af3e0a0d722f34f68159ea260ec162c
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\76\7b32fa1df8c36d613984045bfecfca32baa356
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\76\961f212ee7c9779794738858c411581b4c2c5e
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\76\9781146123f2ced7584c84f073fb51d654d1f4
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\77\2662676a00fcb111f4084bbbc2ded635f7018c
@@ -1666,29 +1722,40 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\7b\2b1baac0e4c0fe751c8561f1e3fdb97956272c
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\7b\ffaabc93d707c3cb9431ca47a35039b24f3b16
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\7c\73821984e3011e3a286d614f26f8b163876a2f
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\7c\7c928c8f71e566f9512f38067b52bd98e062c2
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\7c\b3d9a696d144d2f033a3296599145191f24070
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\7d\a41f71c12daef12caa6f9b40e9ce438110b896
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\7d\bba9e168393e0df8ef4019a88fbd773172d3e0
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\7e\3a297beed7820df0154cc9d9233d8e087f8c7c
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\7e\3e7f524355a7ce99394b897eb5411e8e75d09e
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\7e\5d0d590926f48d1181933a13639f54df151f93
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\7f\963832da08f894867c0fb1adb7af6967cb8f64
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\7f\eea4b79fbdace9a77684a4c385538e6ec61358
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\80\39d49dae8af991644ea8109281a9a195762ff0
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\80\943d1eb6e993d8a96b229b0df98e0222e14ca6
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\82\450899304628b7601647bc13f9726ef0522eb7
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\83\0674470f8052bb64c64a5b513f5df2815a70c1
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\83\1ba0a3dd67aa81df764789a33002d5610d1da1
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\83\1bb9a1a186d391737fc82a07f203f40feb7121
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\84\2e8bd9ac67aa1b0972e819193a27a40fa42dec
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\84\6b1725938423aa13f7fded9bfb23e3106356c4
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\86\9fdddba3412fe6058cc481687ccb9e6ef0f609
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\87\8b8b8e9ba8af7472333790e4d63e15f5132a1b
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\89\f8ba3fea58be54e3b738d07c4a018e59308b4f
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8a\aceed0d99997d7cdd53902548e648de8c5b628
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8a\b41b3a8ae0b0b869f79586379773e9e56328d5
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8c\4bb64cf84df9b8a15678981d9fc3c1272addd5
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8c\add843c67317e44b1caf06a0f81574fcbc767b
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8c\ca0460cf97b9773df369af2af1a3d5046bab6a
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8c\cb3a2d49a03b2ecbd7f29ef5d8c5edf5ebd106
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8d\14f1f472e32fbb0312e67b261301c276eb7b9a
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8d\cd318825592f439635c25247ff9f0bcb38c228
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8e\667f83b3825c86963568b70ee6cac4b6e7e122
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8f\85a3b51e6d691bb7a245fe07fcaaae1c030bf9
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\91\0825b482475df34e672fd436f929b4a7fdd2a2
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\92\a22f266ca1409c30593a900f5349edd3c83e1e
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\92\ba7a99cf9e1e48e003f08598964b79961fb6d4
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\93\86bb59bb23a8f19aa690d2713848a5432c9bc6
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\94\09ef04796ff38447250d16b20cea9159cb2d9f
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\94\a25f7f4cb416c083d265558da75d457237d671
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\94\d00bf7e1315bef8d96e619991e34dafcb298c5
@@ -1697,9 +1764,11 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\97\89d0bae02c2bf974dec7392cc1ffb5c9ddad9e
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\97\ce33bd06e734fc4c6944b3352eab6c13748f96
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\99\59efdd3e3fb79d5d5696375b30194151fd617f
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\99\f413c893a3a5a425b593666d0daa01bf43f632
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\9a\916cf54bd6437a1008266fac872dad50412694
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\9a\b84d61abcee8caca6909391dd412a1db1df558
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\9b\1b6cbcb30d466ce7dc90d76273709dc8381e25
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\9b\55a1f8ddd34323baa7c0f409b3edd86277e9bf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\9b\e73a6a5b1a9fa49a7e6bace17e0d3b40512040
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\9c\3e49ca5205dfe17d2285f4f10a14ef9d849cca
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\9c\b0f461e1453378c7880776dc3e59f51b6c4303
@@ -1707,6 +1776,7 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\9f\fa57beae9cceb17e6761fcfc0fe605212bb92d
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\a1\94873ef12c6d4d538146ba048b42a7dc9a1545
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\a2\41bcfd29e3e56435a90c9df6649924315077a5
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\a2\75a98fc2252b8fa300b6f4ca0d145c4692bf66
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\a3\1c7d0f48db46a2fdee6e86dd023cf359ce6d0d
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\a3\6565fa4122749afbf88fbbeb72793fce1bd273
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\a3\c5fced83648cd8be460a3c502d3308ce61524a
@@ -1715,10 +1785,13 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\aa\00ffab7828f4818589659c804ec2cfd99baed3
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ab\6025afc00e9d3cfb76afcd7052b502aac0bb6d
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ac\3a0f1547cccb6bdd5b072de6fee8a1366ae64e
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ac\b242678bd7850d9b4143c83336b432ca878a0d
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ac\fc3eff95744b9bae19b0812265a7cf9a4ede18
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ae\b96502ce464de4d9b6f0146a58b7159481d25e
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\af\6d1165eabda855533b33fef6a5126f89c1b623
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\af\b9c0f7b4da78d1c4e671d7d56b37eedeee0e04
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\b1\73c63a0bb2501ec3fc057688744baa05083fdc
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\b1\ca9c4e26a8d079c14ac023d45461c5a95c6649
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\b2\aca1e41b974bae4f6cddff7447f67877853ee0
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\b3\e957d2ef3979e6284442c14705f9e0f58b2174
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\b4\4687665edaa6a4eade496d028743ae323decf9
@@ -1739,6 +1812,7 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\c0\2482274ae61a667ee381a3a378914e94fa1045
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\c0\45367b1f3e23f7635ca62fcb32d16a07180287
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\c0\cc2267f13bb796432e9939de77c0b290ce3a98
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\c1\5c4c6b03b063fea1fb0fb2ef7500977a029daa
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\c3\403026c2f36ab6a08e875136a51d1f985b8e8a
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\c4\8c796fdde62cddb78bee6e20bf1bce796d6096
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\c7\0fd0f1b9df3031fbbe4bacdeea4ea56b2ad56f
@@ -1746,7 +1820,9 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\c8\a10ac8b1be64173189300ec1765c26206601f6
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ca\106ff02229166a8f2fc318f5b461be68631dae
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\cc\af2abf7527f22e6179bb4f9a0e851b704db83b
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d0\60eb727ba0a01436f6ebdad2d2f0261195b79b
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d1\6719ee2c8b6314d87d7c31aadcef6d525dec81
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d2\2b21f08e18888e6ad0b46a890fb203d7c148ec
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d4\28b4acbdcdd64eef94e5b4b05714cc63cbf97c
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d5\67d40c8d51237689f55f1498b59631bc501bd4
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d6\05a73565e1e38160d6ece14326f4f471045b2c
@@ -1754,7 +1830,9 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d6\fe460a24bb73799f4d2c169c5d807d1f0e7a45
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d7\13b2daef5c2bd8f11b39096bfbe13d7fc85780
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d7\4e6292d60961bf9806bd0f38468d43856913e4
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d7\f40b3e40622d5072c7cf1014cb07ad169b10d5
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d8\23fdf983c4534b844e5e3c7289af570bbcd801
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d8\6fb634b126a713ce1ed1be258bfca259d7feee
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d9\4f6971cdc28e0ad75a0052014992483c5d9eb1
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\dc\0a34c7633e862ac7dcc090c363e1f1ab1875a3
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\dc\3297abf5c961cd8a3efb74e6ac5f5ab165d422
@@ -1762,6 +1840,7 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\dc\b809979570daa9e3a5fe95ef7bad668ed94347
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\dd\a76c28dd496b78d935fafe17bcb7164f06bad5
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\dd\c2fb5a259ff47ca55f1323868c42d14a1c9ad0
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\de\1e7cd8c32c1f5ee2ad1c391e988d6156a37bcb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\de\460fdd27f09c0cb2aaa3b4a3f438f99e650567
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\e0\28bcfb14073a2f2049d113709ba77a01a8f4c8
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\e0\a2bb4a301d0c033521c5b797dcaf5f41460d73
@@ -1773,6 +1852,7 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\e6\e1ceeefea4652db84602e1c808041330139510
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\e7\56d873db4dc384ee6ca3775be017c3f04dd08f
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\e7\79a9212e791f263697b4ccadc0c21ea659fe2b
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\e7\923088a4da0d467f558b4fb218e05516c99c91
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\e7\9a998c6220c73bd4992e93f441469e4414e999
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\e7\e36872fe63915bd544f4ba58be1ad22dbd495f
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\e8\23f52e89838dff6ddc72aa4413fa2474c7f4a2
@@ -1784,6 +1864,7 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ec\a17563a5131e79fae7feee42845382d1054ddd
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ec\fa09c0da8e44958b2dddfe063bbfd6fab43ae6
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ed\27429859e744c665c285c9ae2804e36aa57176
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ed\88bb44ff2ba94b48b03c273414f3e20449a986
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ed\c99a506d7cfcc9dc3941a9c7bdaf393ebd2ae2
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ef\4d2182abb3fbce9aced6c4d33c4302155a6348
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ef\701fccd56f0ba2698d01282e9ee4fc38ef2315
@@ -1791,6 +1872,7 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\f0\6bdd21b6a4b4eb91ea3db430f2a0a1df2a5968
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\f0\a7acffe5604a5df2e3982b751249e3cbf0ea7b
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\f2\1ee58d5c7be8d9ec5d46298a490871ff795cea
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\f2\5bd834ec05636b0e780b2542a599e7d9fa54a2
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\f4\71eadcae74ad0af94713ba704594bbb255fac0
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\f7\1c2a971ed137adaa288e5680f6fb36c840fc9f
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\f7\4da18cc85b19f6f7ea877f9c472dde104f6af5
@@ -1801,8 +1883,10 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\f9\537ec3accb76496953bbcee1ebf1fd15bd5487
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\f9\a825618b1b14ef168829b5a45f50d885da7569
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\f9\fb3fa8d235555a38c15d4cec8bc9a29f3638f7
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\fb\500406f86ff4763f88b7c219995e58a6e2dae8
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\fd\a5fceecd2b480311ff6915eb7f130e005507a0
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\fe\42f6fa0587758fdb53841922f8939cfec085ef
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ff\25ada643a8b53da8bfc4eb1e91f74e52a35606
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.idea\compiler.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.idea\dataSources\9ee28c31-e6c5-4a51-9365-6635b9b9bbb5\storage_v2\_src_\database\LocalFileSearchEngine.EZtGHQ\schema\public.abK9xQ.zip
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.idea\dataSources\9ee28c31-e6c5-4a51-9365-6635b9b9bbb5.xml
@@ -1846,15 +1930,20 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\assignment3\Main.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\assignment3\store\EventStore.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\config\DatabaseConfig.class
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\database\CachedQueryExecutor.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\database\QueryExecutor.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\database\ResultMapper.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\filesystem\FileAccess.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\filesystem\FileIndexer.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\filesystem\IndexReader.class
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\gui\CutWidget.class
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\gui\NetworksWidget.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\gui\ResultDisplay.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\gui\SearchControllerClient.class
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\gui\SearchControllerFacade.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\gui\SearchInput.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\gui\StatusBox.class
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\gui\WidgetPanel.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\observer\SearchHistoryLogger.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\observer\SearchObserver.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\ranking\CombinedBoostStrategy.class
@@ -1866,27 +1955,13 @@ Skipped Files (880):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\report\ReportGenerationStrategy.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\report\ReportStrategyFactory.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\report\TxtReportStrategy.class
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\searchcontroller\CorrectionStrategy.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\searchcontroller\RequestHandler.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\searchcontroller\ResultBuilder.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\searchcontroller\SearchService.class
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Lectures\Lecture1_Intro_SOLID.pdf
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Lectures\Lecture2_GRASP_PackageDesign.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\searchcontroller\SpellingCorrectorV1.class
 
-Failed Files (15):
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVAp.32A91DE2.tlog\CL.command.1.tlog → Input length = 1
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVAp.32A91DE2.tlog\CL.read.1.tlog → Input length = 1
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVAp.32A91DE2.tlog\CL.write.1.tlog → Input length = 1
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVAp.32A91DE2.tlog\link.command.1.tlog → Input length = 1
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVAp.32A91DE2.tlog\link.read.1.tlog → Input length = 1
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\x64\Debug\OpenCVAp.32A91DE2.tlog\link.write.1.tlog → Input length = 1
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVAp.32A91DE2.tlog\CL.command.1.tlog → Input length = 1
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVAp.32A91DE2.tlog\CL.read.1.tlog → Input length = 1
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVAp.32A91DE2.tlog\CL.write.1.tlog → Input length = 1
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVAp.32A91DE2.tlog\link.command.1.tlog → Input length = 1
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVAp.32A91DE2.tlog\link.read.1.tlog → Input length = 1
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\OpenCVAp.32A91DE2.tlog\link.write.1.tlog → Input length = 1
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\data\MergeConflictsDataset.csv → ERROR: string is too long for tsvector (3072882 bytes, max 1048575 bytes)
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\MuresanMara.ipynb → ERROR: string is too long for tsvector (1514444 bytes, max 1048575 bytes)
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\search_results.txt → Input length = 1
+Failed Files (1):
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\test SD.txt → InputStream must have > 0 bytes
 
-Report generated on: Sat May 17 14:10:46 EEST 2025
+Report generated on: Sun May 18 13:07:33 EEST 2025

@@ -97,10 +97,14 @@ public class ResultDisplay extends JPanel {
     private void addFileResult(String filePath, String content, String highlightQuery, String score) throws BadLocationException {
         doc.insertString(doc.getLength(), "  " + filePath + " ", doc.getStyle("bold"));
         doc.insertString(doc.getLength(), "[score: " + score + "]\n", doc.getStyle("score"));
-        String preview = content.length() > 300 ? content.substring(0, 300) + "..." : content;
-        doc.insertString(doc.getLength(), "    > ", doc.getStyle("dim"));
-        insertHighlightedPreview(preview, highlightQuery);
-        doc.insertString(doc.getLength(), "\n\n", doc.getStyle("dim"));
+        if (content.isBlank()) {
+            doc.insertString(doc.getLength(), "    > [No preview available fo this file]\n\n", doc.getStyle("error"));
+        } else {
+            String preview = content.length() > 300 ? content.substring(0, 300) + "..." : content;
+            doc.insertString(doc.getLength(), "    > ", doc.getStyle("dim"));
+            insertHighlightedPreview(preview, highlightQuery);
+            doc.insertString(doc.getLength(), "\n\n", doc.getStyle("dim"));
+        }
     }
 
     private void setupStyles(StyledDocument doc) {

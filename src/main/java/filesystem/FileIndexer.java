@@ -46,13 +46,14 @@ public class FileIndexer {
                     .forEach(file -> {
                         try {
                             String mimeType = tika.detect(file);
-                            if (!mimeType.startsWith("text")) {
+                            if (!(mimeType.startsWith("text") || mimeType.equals("application/pdf"))) {
                                 skippedFiles.add(file.toString());
                                 System.out.println("Skipping non-text file: " + file);
                                 return;
                             }
 
-                            String content = Files.readString(file);
+                            //String content = Files.readString(file);
+                            String content = tika.parseToString(file);
                             String filePath = file.toString().replace("\\", "/");
                             String extension = getFileExtension(filePath);
                             String tags = "";
