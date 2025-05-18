@@ -48,14 +48,17 @@ public class FileIndexer {
                             String mimeType = tika.detect(file);
                             if (!(mimeType.startsWith("text")
                                     || mimeType.equals("application/pdf")
-                                    || mimeType.equals("application/vnd.openxmlformats-officedocument.wordprocessingml.document"))) {
+                                    || mimeType.equals("application/vnd.openxmlformats-officedocument.wordprocessingml.document")
+                                    || mimeType.startsWith("image/"))) {
                                 skippedFiles.add(file.toString());
                                 System.out.println("Skipping non-text file: " + file);
                                 return;
                             }
 
                             //String content = Files.readString(file);
-                            String content = tika.parseToString(file);
+                            String content = mimeType.startsWith("image/")
+                                    ? ""  //no content for image files
+                                    : tika.parseToString(file).trim();
                             String filePath = file.toString().replace("\\", "/");
                             String extension = getFileExtension(filePath);
                             String tags = "";

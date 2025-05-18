@@ -171,3 +171,7 @@ content:objectives
 path:peda
 path:flt
 path:peda
+path:image
+path:png
+path:jpg
+path:bmp

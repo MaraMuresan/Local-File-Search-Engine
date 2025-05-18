@@ -1,6 +1,6 @@
 Indexing Report:
 
-Indexed Files (1121):
+Indexed Files (1236):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN10.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN2.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN3a_2022.pdf
@@ -22,6 +22,7 @@ Indexed Files (1121):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8\.idea\.gitignore
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8\src\main\java\org\example\Main.java
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8\src\main\java\org\example\RingNode.java
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8_capture.jpg
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\Tools and cables2.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\Tools and cables3.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\FORMAL LANGUAGES AND TRANSLATORS\Laboratory\Laborator 1 FLT (ro) 2023.pdf
@@ -43,7 +44,73 @@ Indexed Files (1121):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\doc\opencv_cheatsheet.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\doc\opencv_tutorials.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\doc\opencv_user.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\gray_background.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\horizontal_ellipse.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\object_holes.bmp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\reconstruct.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\skew_ellipse.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\star.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\star_R90.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\triangle_down.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\triangle_up.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\vertical_ellipse.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\afmsurf.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\alumgrns.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\bacteria.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\blood1.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\bonemarr.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\cameraman.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\cell.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\eight.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\enamel.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\flowers_24bits.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\image saved for mutiplicative factor.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\kids.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\Lena_24bits.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\Lena_24bits_gray.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\letters.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\moon.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\moon_4bit.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\pout.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\rice.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\saturn.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\testpat1.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\trasaturi_geom 1.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\westconcordorthophoto.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\labeling_images\crosses.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\labeling_images\diagonal.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\labeling_images\disks.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\labeling_images\letters.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\labeling_images\shapes.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\labeling_images\text_binary.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\1_Dilate\mon1thr1_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\1_Dilate\reg1neg1_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\1_Dilate\wdg2ded1_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\1_Dilate\wdg2thr3_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\2_Erode\mon1thr1_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\2_Erode\mon1_gray.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\2_Erode\reg1neg1_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\3_Open\art3_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\3_Open\cel4thr3_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\3_Open\cel4_gray.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\3_Open\mon1thr1_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\4_Close\art4_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\4_Close\mon1thr1_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\4_Close\phn1thr1_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\4_Close\phn1_gray.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\5_BoundaryExtraction\reg1neg1_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\5_BoundaryExtraction\wdg2thr3_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\5_BoundaryExtraction\wdg2_gray.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\6_RegionFilling\reg1neg1_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\6_RegionFilling\wdg2ded1_bw.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\balloons.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\balloons_Gauss.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\balloons_Salt&Pepper.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\portrait_Gauss1.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\portrait_Gauss2.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\portrait_original.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\portrait_Salt&Pepper1.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\portrait_Salt&Pepper2.bmp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\OpenCV\include\opencv2\calib3d\calib3d.hpp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\OpenCV\include\opencv2\calib3d\calib3d_c.h
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\OpenCV\include\opencv2\calib3d.hpp
@@ -398,6 +465,10 @@ Indexed Files (1121):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\OpenCV\include\opencv2\world.hpp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\OpenCVApplication.cpp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\OpenCVApplication.sln
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\statistical_prop_images\balloons.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\statistical_prop_images\Hawkes_Bay_NZ.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\statistical_prop_images\wheel.bmp
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\statistical_prop_images\wilderness.bmp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\stdafx.cpp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\stdafx.h
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\targetver.h
@@ -418,6 +489,9 @@ Indexed Files (1121):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\doc\opencv_cheatsheet.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\doc\opencv_tutorials.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\doc\opencv_user.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\Images\redeye3.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\Images\red_eyes.jpg
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\Images\red_eyes2.jpg
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\OpenCV\include\opencv2\calib3d\calib3d.hpp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\OpenCV\include\opencv2\calib3d\calib3d_c.h
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\OpenCV\include\opencv2\calib3d.hpp
@@ -788,6 +862,10 @@ Indexed Files (1121):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project Research.txt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Red-Eye Removal.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\redEyeRemoval\adredeye.py
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\redEyeRemoval\data\redeye3.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\redEyeRemoval\data\red_eyes.jpg
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\redEyeRemoval\data\red_eyes2.jpg
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\redEyeRemoval\Screenshot 2024-03-04 214443.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\.idea\.gitignore
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\B_Model_Tutorial_4_Bayesian_Networks.ipynb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProject\.idea\.gitignore
@@ -797,11 +875,17 @@ Indexed Files (1121):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProjectLab2\.idea\.gitignore
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProjectLab2\exercitiu35curs.ipynb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProjectLab2\is03t03.ipynb
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProjectLab2\is03_alarm_model.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProjectLab2\is03_cancer_model.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\IS-2324-L07.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\IS-2425-L02.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.idea\.gitignore
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.ipynb_checkpoints\exxercitiu-checkpoint.ipynb
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.ipynb_checkpoints\is03_cancer_model-checkpoint.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.ipynb_checkpoints\quiz1-checkpoint.ipynb
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\2_alarms.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\airport_alarm.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\la1_prob2.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\Lab3 - Problem2.ipynb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\quiz1.ipynb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\quizz2.ipynb
@@ -827,10 +911,34 @@ Indexed Files (1121):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab7\.idea\.gitignore
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab7\.ipynb_checkpoints\california_linear_regression-checkpoint.ipynb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab7\california_linear_regression.ipynb
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab7\gradient_descent.gif
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab7\Gradient_Descent_animation.ipynb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\.idea\.gitignore
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\.ipynb_checkpoints\MuresanMara-checkpoint.ipynb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\data\MergeConflictsDataset.csv
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\attribute_histogram_plots.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\commit_length_vs_conflict_train.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\correlation_matrix_train.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_confusion_matrix_grid_extended_model.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_confusion_matrix_grid_full_model.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_confusion_matrix_grid_slim_model.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_confusion_matrix_random_full_model.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_confusion_matrix_random_slim_model.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_feature_importance.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_roc_curves.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_roc_curve_extended_model.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\feature_importance_slim_model.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\keyword_frequency_train.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\rf_confusion_matrix.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\rf_confusion_matrix_extended_model.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\rf_roc_curve.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\rf_roc_curve_extended_model.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\svm_confusion_matrix.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\svm_confusion_matrix_extended_model.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\svm_non_linear_proof.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\svm_roc_curve.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\svm_roc_curve_extended_model.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\train_feature_histograms.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\MuresanMara.ipynb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\Lab1. (EN) Introduction to Prolog.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Laboratory\lab1.pl
@@ -922,6 +1030,7 @@ Indexed Files (1121):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\ex1.txt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\ex2.txt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\ex3.txt
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\fruits\apple.jpg
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\fruits\bug.txt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\fruits\ex3.c
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\fruits\ex4.txt
@@ -1050,6 +1159,12 @@ Indexed Files (1121):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.idea\dataSources\9ee28c31-e6c5-4a51-9365-6635b9b9bbb5\storage_v2\_src_\database\LocalFileSearchEngine.EZtGHQ\schema\public.abK9xQ.meta
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.idea\dataSources\9ee28c31-e6c5-4a51-9365-6635b9b9bbb5\storage_v2\_src_\database\LocalFileSearchEngine.EZtGHQ.meta
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\docs\ARCHITECTURE.md
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\docs\ContainerDiagram.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\docs\FileSystemComponentDiagram.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\docs\GUIComponentDiagram.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\docs\PostgreSQLComponentDiagram.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\docs\SearchControllerComponentDiagram.png
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\docs\SystemContextDiagram.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\index_report.txt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\search_history.txt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\search_results.txt
@@ -1123,7 +1238,7 @@ Indexed Files (1121):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Lectures\Lecture1_Intro_SOLID.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Lectures\Lecture2_GRASP_PackageDesign.pdf
 
-Skipped Files (844):
+Skipped Files (738):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab10_v1.pkt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab10_v2.pkt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab6.pkt
@@ -1136,7 +1251,6 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8\pom.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8\target\classes\org\example\Main.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8\target\classes\org\example\RingNode.class
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8_capture.jpg
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8_wireshark.pcapng
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab9.pkt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\.vs\OpenCVApplication\FileContentIndex\39932307-2fa7-4c80-8899-3deb30304e1b.vsidx
@@ -1159,72 +1273,6 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\.vs\VSWorkspaceState.json
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\clean.bat
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\CppProperties.json
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\gray_background.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\horizontal_ellipse.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\object_holes.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\skew_ellipse.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\star.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\star_R90.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\triangle_down.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\triangle_up.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\files_border_tracing\vertical_ellipse.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\afmsurf.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\alumgrns.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\bacteria.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\blood1.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\bonemarr.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\cameraman.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\cell.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\eight.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\enamel.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\flowers_24bits.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\image saved for mutiplicative factor.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\kids.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\Lena_24bits.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\Lena_24bits_gray.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\letters.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\moon.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\moon_4bit.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\pout.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\rice.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\saturn.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\testpat1.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\trasaturi_geom 1.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Images\westconcordorthophoto.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\labeling_images\crosses.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\labeling_images\diagonal.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\labeling_images\disks.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\labeling_images\letters.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\labeling_images\shapes.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\labeling_images\text_binary.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\1_Dilate\mon1thr1_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\1_Dilate\reg1neg1_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\1_Dilate\wdg2ded1_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\1_Dilate\wdg2thr3_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\2_Erode\mon1thr1_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\2_Erode\mon1_gray.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\2_Erode\reg1neg1_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\3_Open\art3_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\3_Open\cel4thr3_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\3_Open\cel4_gray.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\3_Open\mon1thr1_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\4_Close\art4_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\4_Close\mon1thr1_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\4_Close\phn1thr1_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\4_Close\phn1_gray.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\5_BoundaryExtraction\reg1neg1_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\5_BoundaryExtraction\wdg2thr3_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\5_BoundaryExtraction\wdg2_gray.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\6_RegionFilling\reg1neg1_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\morphological_op_images\Morphological_Op_Images\6_RegionFilling\wdg2ded1_bw.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\balloons.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\balloons_Gauss.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\balloons_Salt&Pepper.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\portrait_Gauss1.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\portrait_Gauss2.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\portrait_original.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\portrait_Salt&Pepper1.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\noise_images\portrait_Salt&Pepper2.bmp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\OpenCV\dll\Debug\opencv_videoio_ffmpeg490_64.dll
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\OpenCV\dll\Debug\opencv_videoio_msmf490_64d.dll
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\OpenCV\dll\Debug\opencv_world490d.dll
@@ -1235,10 +1283,6 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\OpenCV\lib\opencv_world490d.lib
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\OpenCVApplication.vcxproj
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\OpenCVApplication.vcxproj.user
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\statistical_prop_images\balloons.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\statistical_prop_images\Hawkes_Bay_NZ.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\statistical_prop_images\wheel.bmp
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\statistical_prop_images\wilderness.bmp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Videos\Megamind.avi
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Videos\rubic.avi
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\Videos\taxi.avi
@@ -1280,9 +1324,6 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\clean.bat
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\CppProperties.json
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\haarcascade_eye.xml
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\Images\redeye3.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\Images\red_eyes.jpg
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\Images\red_eyes2.jpg
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\OpenCV\dll\Debug\opencv_videoio_ffmpeg490_64.dll
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\OpenCV\dll\Debug\opencv_videoio_msmf490_64d.dll
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\OpenCV\dll\Debug\opencv_world490d.dll
@@ -1307,12 +1348,8 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\stdafx.obj
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\vc143.idb
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\Project\x64\Debug\vc143.pdb
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\redEyeRemoval\data\redeye3.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\redEyeRemoval\data\red_eyes.jpg
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\redEyeRemoval\data\red_eyes2.jpg
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\redEyeRemoval\haarcascade_eye.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\redEyeRemoval\opencv1.pptm
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\redEyeRemoval\Screenshot 2024-03-04 214443.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\.idea\inspectionProfiles\profiles_settings.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\.idea\inspectionProfiles\Project_Default.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\.idea\Laboratory.iml
@@ -1331,8 +1368,6 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProjectLab2\.idea\misc.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProjectLab2\.idea\modules.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProjectLab2\.idea\workspace.xml
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProjectLab2\is03_alarm_model.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\emptyProjectLab2\is03_cancer_model.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\End-to-End_ML_Project.tgz
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.idea\inspectionProfiles\profiles_settings.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.idea\inspectionProfiles\Project_Default.xml
@@ -1340,10 +1375,6 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.idea\misc.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.idea\modules.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.idea\workspace.xml
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\.ipynb_checkpoints\is03_cancer_model-checkpoint.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\2_alarms.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\airport_alarm.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab3\la1_prob2.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\.idea\inspectionProfiles\profiles_settings.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\.idea\inspectionProfiles\Project_Default.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab4\.idea\lab4.iml
@@ -1357,7 +1388,6 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab7\.idea\modules.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab7\.idea\workspace.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab7\gradientDescent-Univariate.xlsx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab7\gradient_descent.gif
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\lab7\gradient_descent.mp4
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\MergeConflictsDataset.xlsx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\.idea\inspectionProfiles\profiles_settings.xml
@@ -1366,33 +1396,9 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\.idea\misc.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\.idea\modules.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\.idea\workspace.xml
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\attribute_histogram_plots.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\commit_length_vs_conflict_train.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\correlation_matrix_train.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_confusion_matrix_grid_extended_model.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_confusion_matrix_grid_full_model.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_confusion_matrix_grid_slim_model.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_confusion_matrix_random_full_model.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_confusion_matrix_random_slim_model.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_feature_importance.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_roc_curves.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\decision_tree_roc_curve_extended_model.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\feature_importance_slim_model.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\keyword_frequency_train.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\rf_confusion_matrix.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\rf_confusion_matrix_extended_model.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\rf_roc_curve.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\rf_roc_curve_extended_model.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\svm_confusion_matrix.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\svm_confusion_matrix_extended_model.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\svm_non_linear_proof.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\svm_roc_curve.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\svm_roc_curve_extended_model.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\train_feature_histograms.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 4.doc
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa_de_asistenta_2.doc
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica.zip
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\fruits\apple.jpg
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\l1\.idea\compiler.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\l1\.idea\encodings.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\l1\.idea\jarRepositories.xml
@@ -1590,6 +1596,7 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\21\19d72181c9bb1a01f52f93e11fd4f230413e57
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\22\2ba97945b0b76181505658f03bcb4fd9b5617e
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\22\65d850d6f78113e490fac0f3188669b4bbdb98
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\23\27e30fb60b5f0c57cfb564032486e8117dcdca
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\23\efe94bfc32e350a789830cb6dbf56d69a22588
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\24\9af6e0c4da67b4cf90c9fd3a7546d3eaf261f4
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\26\7d809c039526577f87b381403af6edc3716ff7
@@ -1643,6 +1650,7 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\46\80a14b44932fa56c77adc1c4433073074efb2b
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\46\cfc6f0af8142fc5cf688143d945a10c58b2833
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\46\d46b51f3c0321cccbf87fab586481f1e21f837
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\47\1fa39e8b1cbbbf5102cbd1c2824a4b427d0781
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\47\28591905c1778f127ef34700157832ad7c3a11
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\47\2a0327c1cc1af3592201660ab4d7d57d95e769
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\49\8a2e0fbb72b03a6c2e2a591b9cb19e8969ce35
@@ -1667,12 +1675,14 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5a\2975571d9670e221731fe28cbc08231c9323d7
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5a\758e7ea2747f686f91f76852c7ff0144bd0c7a
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5a\c1786900301f63dfd3c8996cdf44d10feb2a6f
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5b\c320abc14c770daaafcc59bb89fade471603b9
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5c\25a57cc55586e9baed1a538a200e55738baddf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5c\897c17b0133fb320c61690577977d574eca501
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5c\9562790b95095451f3eed31e291ee052d3fd51
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5c\d745bcf2f6c660936fcd662b964475d4aa222d
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5d\a8b2577e81a3b28eaf84a5517943b6f5fbfa65
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5d\f9eda8286f6ea9949e07dc0b5028472b1fbc80
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5e\21ec0a777636aca4ca7536a9c95883e2b26a70
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5e\49a97fd1c5587e1ecdec56bc79de54f13436d8
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5e\d2a0b73a41d3f7435b86435b3ca108c2e57cf0
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5e\db0c69b4b61128a91762cf7956bf52ce88075b
@@ -1680,6 +1690,7 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5f\10bc6d58f8fd77d7f14bb5abb4128c4473a979
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5f\f6309b7199129c1afe4f4ec1906e640bec48c6
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\60\0adf46203f6bdb477d2e21f3eca94ab33c95b3
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\61\09e6af506fdf86550e4d7cc2d1a679e9fafa45
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\61\51ff863be6a19a697ad8cb3ba9ad493ddd3735
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\61\746f0a0b8dc854dcef672317e826f62f70d221
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\63\a1bff11ad46460f518e7f7f613fa2bd9168074
@@ -1742,6 +1753,7 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\84\6b1725938423aa13f7fded9bfb23e3106356c4
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\86\9fdddba3412fe6058cc481687ccb9e6ef0f609
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\87\8b8b8e9ba8af7472333790e4d63e15f5132a1b
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\88\825e3508e623a9ca6b5c30ebb829e6cb5e0a38
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\89\f8ba3fea58be54e3b738d07c4a018e59308b4f
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8a\aceed0d99997d7cdd53902548e648de8c5b628
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8a\b41b3a8ae0b0b869f79586379773e9e56328d5
@@ -1783,6 +1795,7 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\a3\1c7d0f48db46a2fdee6e86dd023cf359ce6d0d
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\a3\6565fa4122749afbf88fbbeb72793fce1bd273
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\a3\c5fced83648cd8be460a3c502d3308ce61524a
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\a5\79eac31ab813bba7eb1dacd0a2f2613156668c
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\a9\60ba50fd087d748d7ea0eaecb9563e1551b1cd
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\a9\67047bfeeec4d9fef18827caf54e663707742f
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\aa\00ffab7828f4818589659c804ec2cfd99baed3
@@ -1842,6 +1855,7 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d8\6fb634b126a713ce1ed1be258bfca259d7feee
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d9\4f6971cdc28e0ad75a0052014992483c5d9eb1
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\dc\0a34c7633e862ac7dcc090c363e1f1ab1875a3
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\dc\1ad90c616d8dc638fda6c11b4582f3e9a351ba
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\dc\3297abf5c961cd8a3efb74e6ac5f5ab165d422
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\dc\856484a276de7ec85b52db1dace2729c8855ae
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\dc\b809979570daa9e3a5fe95ef7bad668ed94347
@@ -1875,6 +1889,7 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ed\c99a506d7cfcc9dc3941a9c7bdaf393ebd2ae2
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ef\4d2182abb3fbce9aced6c4d33c4302155a6348
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ef\701fccd56f0ba2698d01282e9ee4fc38ef2315
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ef\9d86d1e2d60e505e611d464b0a095c99f8977d
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ef\e531302d953360ee6dbdddd8f54b06de8cd41c
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\f0\6bdd21b6a4b4eb91ea3db430f2a0a1df2a5968
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\f0\a7acffe5604a5df2e3982b751249e3cbf0ea7b
@@ -1906,12 +1921,6 @@ Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.idea\uiDesigner.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.idea\vcs.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.idea\workspace.xml
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\docs\ContainerDiagram.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\docs\FileSystemComponentDiagram.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\docs\GUIComponentDiagram.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\docs\PostgreSQLComponentDiagram.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\docs\SearchControllerComponentDiagram.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\docs\SystemContextDiagram.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\index_report.json
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\pom.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\application\Main.class
@@ -1975,4 +1984,4 @@ Failed Files (4):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\test SD.txt → InputStream must have > 0 bytes
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\~$lab6.docx → Error creating OOXML extractor
 
-Report generated on: Sun May 18 14:17:09 EEST 2025
+Report generated on: Sun May 18 14:41:16 EEST 2025
