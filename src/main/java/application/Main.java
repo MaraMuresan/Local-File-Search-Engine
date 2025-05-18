@@ -36,6 +36,8 @@ public class Main {
 
             status.setHistory(historyLogger.getLastSearches(3));
 
+            //TODO: test if the pre-commit hook works
+
             JFrame frame = new JFrame("Local File Search Engine");
             frame.setSize(900, 600);
             frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
