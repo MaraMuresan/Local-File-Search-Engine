@@ -270,3 +270,9 @@ path:image
 path:peda
 content:cut
 content:lab
+path:peda
+path:networks
+path:networks
+content:cut
+path:networks
+content:cut

@@ -9,10 +9,8 @@ import java.io.IOException;
 import java.nio.file.*;
 import java.nio.file.attribute.FileTime;
 import java.sql.*;
-import java.util.Date;
 import java.util.ArrayList;
 import java.util.List;
-import java.io.BufferedWriter;
 
 public class FileIndexer {
 
@@ -55,7 +53,6 @@ public class FileIndexer {
                                 return;
                             }
 
-                            //String content = Files.readString(file);
                             String content = mimeType.startsWith("image/")
                                     ? ""  //no content for image files
                                     : tika.parseToString(file).trim();

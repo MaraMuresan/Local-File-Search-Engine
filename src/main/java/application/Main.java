@@ -1,11 +1,9 @@
 package application;
 
 import database.CachedQueryExecutor;
-import filesystem.IndexReader;
 import gui.*;
 import gui.SearchControllerFacade;
 import searchcontroller.CorrectionStrategy;
-import searchcontroller.SearchService;
 import observer.SearchHistoryLogger;
 import searchcontroller.SpellingCorrectorV1;
 
@@ -17,8 +15,6 @@ public class Main {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
             CachedQueryExecutor executor = new CachedQueryExecutor();
-            IndexReader indexReader = new IndexReader();
-            SearchService service = new SearchService(executor, indexReader);
 
             ResultDisplay display = new ResultDisplay();
             StatusBox status = new StatusBox();
