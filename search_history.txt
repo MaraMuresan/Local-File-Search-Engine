@@ -230,3 +230,13 @@ path:png
 content:cut
 path:jpg
 content:cut
+path:networks
+path:networks
+content:networks
+content:networks
+path:networks
+path:networks
+path:computer
+path:peda
+path:computer
+path:peda
