@@ -265,3 +265,8 @@ path:peda
 path:peda
 path:peda
 content:cut
+path:software
+path:image
+path:peda
+content:cut
+content:lab

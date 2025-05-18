@@ -92,6 +92,7 @@ public class SearchControllerFacade{
 
             Map<String, Integer> fileTypes = new HashMap<>();
             Map<String, Integer> months = new HashMap<>();
+            Map<String, Integer> sizeBuckets = new HashMap<>();
 
             for (String[] row : allResults) {
                 String ext = row.length > 3 ? row[3].toLowerCase() : "unknown";
@@ -104,6 +105,15 @@ public class SearchControllerFacade{
                         String monthName = getMonthName(monthPart);
                         months.put(monthName, months.getOrDefault(monthName, 0) + 1);
                     }
+                }
+
+                long sizeBytes = 0;
+                if (row.length > 5) {
+                    try {
+                        sizeBytes = Long.parseLong(row[5]);
+                    } catch (Exception ignored) {}
+                    String bucket = getBucketSize(sizeBytes);
+                    sizeBuckets.put(bucket, sizeBuckets.getOrDefault(bucket, 0) + 1);
                 }
             }
 
@@ -119,9 +129,16 @@ public class SearchControllerFacade{
                     .reduce((a, b) -> a + ", " + b)
                     .orElse("None");
 
+            String sizeSummary = sizeBuckets.entrySet().stream()
+                    .sorted(Map.Entry.<String, Integer>comparingByValue().reversed())
+                    .map(e -> e.getKey() + " (" + e.getValue() + ")")
+                    .reduce((a, b) -> a + ", " + b)
+                    .orElse("None");
+
             String statusText = "Found " + total + " results\n" +
-                    "File Types: " + typeSummary + "\n" +
-                    "Modified Months: " + monthSummary;
+                    "File Type: " + typeSummary + "\n" +
+                    "Modified Month: " + monthSummary + "\n" +
+                    "File Size: " + sizeSummary;
 
             statusBox.setStatus(statusText);
 
@@ -154,6 +171,16 @@ public class SearchControllerFacade{
             case "12" -> "December";
             default -> "Unknown";
         };
+    }
+
+    private String getBucketSize(long sizeBytes) {
+        if (sizeBytes < 100_000) { //100 KB
+            return "Small";
+        } else if (sizeBytes <= 1_000_000) { //1 MB
+           return "Medium";
+        } else {
+            return "Large";
+        }
     }
 
 }
