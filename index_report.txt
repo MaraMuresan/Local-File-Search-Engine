@@ -1,6 +1,6 @@
 Indexing Report:
 
-Indexed Files (1104):
+Indexed Files (1121):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN10.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN2.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN3a_2022.pdf
@@ -8,11 +8,16 @@ Indexed Files (1104):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN4.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN4_2.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN5.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN6.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN7.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN9.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab10.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab10.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab3.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab3.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab4.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab4.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab5.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8\.gitignore
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8\.idea\.gitignore
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8\src\main\java\org\example\Main.java
@@ -863,13 +868,20 @@ Indexed Files (1104):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Lectures\LP_#3_2025.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Lectures\LP_#4_2025.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\LOGIC PROGRAMMING\Lectures\LP_#5_2025.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 1.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 1.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 11.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 11.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 12.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 12.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 2.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 2.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 3 .docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 3 .pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 4.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 5.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 5.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 8.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 8.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa_de_asistenta_2.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de asistență 1.pdf
@@ -877,8 +889,11 @@ Indexed Files (1104):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de asistență 3.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de asistență 4.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de asistență 5.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de autoreflecție.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de autoreflecție.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de caracterizare a competențelor profesionale (fișă. obs)_1.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de caracterizare a competențelor profesionale (fișă. obs)_1.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de caracterizare a competențelor profesionale (fișă. obs)_2.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de caracterizare a competențelor profesionale (fișă. obs)_2.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă psihopedagogică.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de asistență 1.pdf
@@ -891,7 +906,9 @@ Indexed Files (1104):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă de caracterizare a competențelor profesionale (fișă. obs)_2.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Fișă psihopedagogică.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica\Plan de lectie - cls 8.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Plan de lectie - cls 8.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Plan de lectie - cls 8.pdf
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\~WRL0003.tmp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\2025_SD_Assignment_1.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\2025_SD_Assignment_2.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\2025_SD_Assignment_3.pdf
@@ -1106,17 +1123,10 @@ Indexed Files (1104):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Lectures\Lecture1_Intro_SOLID.pdf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Lectures\Lecture2_GRASP_PackageDesign.pdf
 
-Skipped Files (853):
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\CN6.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab10.docx
+Skipped Files (844):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab10_v1.pkt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab10_v2.pkt
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab3.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab4.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab5.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab6.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab6.pkt
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab7.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab7.pkt
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8\.idea\compiler.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8\.idea\encodings.xml
@@ -1129,7 +1139,6 @@ Skipped Files (853):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8_capture.jpg
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab8_wireshark.pcapng
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab9.pkt
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\~$lab6.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\.vs\OpenCVApplication\FileContentIndex\39932307-2fa7-4c80-8899-3deb30304e1b.vsidx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\.vs\OpenCVApplication\FileContentIndex\3f6a8c1f-0e2f-40b2-a514-473e1092f0e4.vsidx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\IMAGE PROCESSING\Laboratory\OpenCVApplication-VS2022_OCV490_basic\.vs\OpenCVApplication\FileContentIndex\617c2931-0f0d-4c92-afef-5010d24bb561.vsidx
@@ -1380,21 +1389,9 @@ Skipped Files (853):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\svm_roc_curve.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\svm_roc_curve_extended_model.png
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\INTELLIGENT SYSTEMS\Laboratory\Project\images\plots\train_feature_histograms.png
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 1.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 11.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 12.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 2.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 3 .docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 4.doc
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 5.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa 8.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\fisa_de_asistenta_2.doc
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de autoreflecție.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de caracterizare a competențelor profesionale (fișă. obs)_1.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Fișă de caracterizare a competențelor profesionale (fișă. obs)_2.docx
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\MaraMuresanSEM2_dosarPractica.zip
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\Plan de lectie - cls 8.docx
- - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\PEDA\~WRL0003.tmp
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\examples\fruits\apple.jpg
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\l1\.idea\compiler.xml
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\l1\.idea\encodings.xml
@@ -1588,6 +1585,7 @@ Skipped Files (853):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\1e\6434eae95c0ada2f8f528d13ce433f40ff2689
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\1f\9df90afbee5a94093434efee6920d18f09183d
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\1f\f7d05282d418e3a402753396758ea4d467bcca
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\20\c0f235829dc5d566a24200741269e72e5075fe
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\20\d1dee4fd71b75b9f7c6c72358a663cd21e5a04
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\21\19d72181c9bb1a01f52f93e11fd4f230413e57
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\22\2ba97945b0b76181505658f03bcb4fd9b5617e
@@ -1672,6 +1670,7 @@ Skipped Files (853):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5c\25a57cc55586e9baed1a538a200e55738baddf
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5c\897c17b0133fb320c61690577977d574eca501
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5c\9562790b95095451f3eed31e291ee052d3fd51
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5c\d745bcf2f6c660936fcd662b964475d4aa222d
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5d\a8b2577e81a3b28eaf84a5517943b6f5fbfa65
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5d\f9eda8286f6ea9949e07dc0b5028472b1fbc80
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\5e\49a97fd1c5587e1ecdec56bc79de54f13436d8
@@ -1709,10 +1708,12 @@ Skipped Files (853):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\73\cc172f595ac1feeb4f3ba64c01b513fb962785
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\75\1bec99055965116f35bf2b11f2f2ec40088168
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\75\9e7d0a964e0d6d7bdc3b3c1de8487eb81d2030
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\76\0b4280fdf0b38f8aa1b9ebdd6388b2e6528d04
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\76\4a0d3a2af3e0a0d722f34f68159ea260ec162c
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\76\7b32fa1df8c36d613984045bfecfca32baa356
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\76\961f212ee7c9779794738858c411581b4c2c5e
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\76\9781146123f2ced7584c84f073fb51d654d1f4
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\76\aab8a8f30abc2189522cce82741918c2fbaf93
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\77\2662676a00fcb111f4084bbbc2ded635f7018c
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\77\9c227952f234c903e4116053d1347651aed1f0
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\77\e3a14740f903d3910ac176d1e1a6fc5b7b16ec
@@ -1751,6 +1752,7 @@ Skipped Files (853):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8d\14f1f472e32fbb0312e67b261301c276eb7b9a
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8d\cd318825592f439635c25247ff9f0bcb38c228
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8e\667f83b3825c86963568b70ee6cac4b6e7e122
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8e\a68d65ec5c4362e4d901a74965ef474771c27d
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\8f\85a3b51e6d691bb7a245fe07fcaaae1c030bf9
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\91\0825b482475df34e672fd436f929b4a7fdd2a2
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\92\a22f266ca1409c30593a900f5349edd3c83e1e
@@ -1773,6 +1775,7 @@ Skipped Files (853):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\9c\3e49ca5205dfe17d2285f4f10a14ef9d849cca
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\9c\b0f461e1453378c7880776dc3e59f51b6c4303
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\9f\5581fa6f3faa9167df6e36f2d76344dd02d2b7
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\9f\bdfccb7b857f519281689c08c5825e0425fb57
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\9f\fa57beae9cceb17e6761fcfc0fe605212bb92d
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\a1\94873ef12c6d4d538146ba048b42a7dc9a1545
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\a2\41bcfd29e3e56435a90c9df6649924315077a5
@@ -1801,13 +1804,16 @@ Skipped Files (853):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\b7\4f09600675ed47e29c498efd4e0e94c965ddc9
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\b8\4c39ed303f51f8b53525b67d3d70ac7fd20d13
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\b8\8d08366462eaec6dec06e92a411f30795aca69
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\b8\a75e82053a9d0e031d273cd9a94a7e69ae97b9
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\b8\c6ff1790befbad1670ab88628ceaa4f9132fee
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\b9\7ae88da30db71db846a46c10862222222cc741
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ba\55cd5cd16fb63e0bf0acb26e30eada950ff11b
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\bc\31781cd9181016a18d29b39c39d64e4cf4fe71
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\bc\38a772a1fd8b9b863abaf3cc095a51fabf1c48
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\bc\8d4579256e726d06537e83ec6701c1754388b4
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\bc\de685b8be85906e29eec32cdf0f629b6440a4c
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\be\27cded55f724e52aa52a186e102ee249abf19e
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\bf\053cf7fcc79c5a864ebb3a5e3aa3878f9f076f
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\c0\19edf934abe0d82f380273869887a83c94320a
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\c0\2482274ae61a667ee381a3a378914e94fa1045
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\c0\45367b1f3e23f7635ca62fcb32d16a07180287
@@ -1830,6 +1836,7 @@ Skipped Files (853):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d6\fe460a24bb73799f4d2c169c5d807d1f0e7a45
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d7\13b2daef5c2bd8f11b39096bfbe13d7fc85780
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d7\4e6292d60961bf9806bd0f38468d43856913e4
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d7\96b0674932bf10cf5d65c95703253a546a9c22
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d7\f40b3e40622d5072c7cf1014cb07ad169b10d5
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d8\23fdf983c4534b844e5e3c7289af570bbcd801
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\d8\6fb634b126a713ce1ed1be258bfca259d7feee
@@ -1885,6 +1892,7 @@ Skipped Files (853):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\f9\fb3fa8d235555a38c15d4cec8bc9a29f3638f7
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\fb\500406f86ff4763f88b7c219995e58a6e2dae8
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\fd\a5fceecd2b480311ff6915eb7f130e005507a0
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\fe\1b1330b7f46a0fec472dabf6a44fae535b48d9
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\fe\42f6fa0587758fdb53841922f8939cfec085ef
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.git\objects\ff\25ada643a8b53da8bfc4eb1e91f74e52a35606
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\.idea\compiler.xml
@@ -1961,7 +1969,10 @@ Skipped Files (853):
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\searchcontroller\SearchService.class
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\SOFTWARE DESIGN\Laboratory\Project\target\classes\searchcontroller\SpellingCorrectorV1.class
 
-Failed Files (1):
+Failed Files (4):
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab6.docx → InputStream must have > 0 bytes
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\lab7.docx → InputStream must have > 0 bytes
  - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\test SD.txt → InputStream must have > 0 bytes
+ - C:\Users\Mara\Documents\UTCN AN 3 SEM 2\COMPUTER NETWORKS\Laboratory\~$lab6.docx → Error creating OOXML extractor
 
-Report generated on: Sun May 18 13:07:33 EEST 2025
+Report generated on: Sun May 18 14:17:09 EEST 2025

@@ -46,7 +46,9 @@ public class FileIndexer {
                     .forEach(file -> {
                         try {
                             String mimeType = tika.detect(file);
-                            if (!(mimeType.startsWith("text") || mimeType.equals("application/pdf"))) {
+                            if (!(mimeType.startsWith("text")
+                                    || mimeType.equals("application/pdf")
+                                    || mimeType.equals("application/vnd.openxmlformats-officedocument.wordprocessingml.document"))) {
                                 skippedFiles.add(file.toString());
                                 System.out.println("Skipping non-text file: " + file);
                                 return;
